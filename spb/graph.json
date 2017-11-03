@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509495116250,
+  "version": 1509738982211,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -3524,8 +3524,8 @@
         "fi": "Solidaarisuustie"
       },
       "location": {
-        "lat": 59.9337529543302,
-        "lng": 30.487403869628906
+        "lat": 59.92233415479259,
+        "lng": 30.482597351074222
       }
     },
     {
