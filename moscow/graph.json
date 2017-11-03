@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509734337560,
+  "version": 1509749101183,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -4603,6 +4603,14 @@
         "lat": 55.63863079984429,
         "lng": 37.382311820983894
       }
+    },
+    {
+      "name": "Podrezkovo",
+      "altNames": {},
+      "location": {
+        "lat": 55.94173794739737,
+        "lng": 37.334825992584236
+      }
     }
   ],
   "transfers": [
@@ -8427,7 +8435,7 @@
       ]
     },
     {
-      "source": 435,
+      "source": 575,
       "target": 436,
       "routes": [
         21,
@@ -9457,6 +9465,14 @@
       "target": 574,
       "routes": [
         18
+      ]
+    },
+    {
+      "source": 575,
+      "target": 435,
+      "routes": [
+        21,
+        17
       ]
     }
   ],
