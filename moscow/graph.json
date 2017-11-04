@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509832225487,
+  "version": 1509832770754,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -3589,7 +3589,7 @@
       }
     },
     {
-      "name": "Dolgije prudy",
+      "name": "Dolgoprudnyj",
       "altNames": {},
       "location": {
         "lat": 55.93898594266563,
@@ -4674,6 +4674,14 @@
       "location": {
         "lat": 55.85115577395707,
         "lng": 37.40737438201905
+      }
+    },
+    {
+      "name": "Dolgije prudy",
+      "altNames": {},
+      "location": {
+        "lat": 55.936359939266,
+        "lng": 37.54736423492432
       }
     }
   ],
@@ -9605,6 +9613,13 @@
       "target": 583,
       "routes": [
         27
+      ]
+    },
+    {
+      "source": 524,
+      "target": 584,
+      "routes": [
+        9
       ]
     }
   ],
