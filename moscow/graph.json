@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509832770754,
+  "version": 1509836226401,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -2597,7 +2597,7 @@
       }
     },
     {
-      "name": "Novochochlovskaja",
+      "name": "Grajvoronovo",
       "altNames": {},
       "location": {
         "lat": 55.72407699154411,
@@ -2869,7 +2869,7 @@
       }
     },
     {
-      "name": "Novochochlovskaja",
+      "name": "Grajvoronovo",
       "altNames": {},
       "location": {
         "lat": 55.723944061738756,
