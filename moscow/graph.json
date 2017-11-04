@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509749101183,
+  "version": 1509832225487,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -4611,6 +4611,70 @@
         "lat": 55.94173794739737,
         "lng": 37.334825992584236
       }
+    },
+    {
+      "name": "Novozavodskaja",
+      "altNames": {},
+      "location": {
+        "lat": 55.75337092685842,
+        "lng": 37.502903938293464
+      }
+    },
+    {
+      "name": "Fiľovskaja pojma",
+      "altNames": {},
+      "location": {
+        "lat": 55.76356428495814,
+        "lng": 37.48749196529389
+      }
+    },
+    {
+      "name": "Mňovniki",
+      "altNames": {},
+      "location": {
+        "lat": 55.77621096929805,
+        "lng": 37.47651100158692
+      }
+    },
+    {
+      "name": "Ulica Paršina",
+      "altNames": {},
+      "location": {
+        "lat": 55.7900388656244,
+        "lng": 37.46509552001954
+      }
+    },
+    {
+      "name": "Ščukino",
+      "altNames": {},
+      "location": {
+        "lat": 55.808082557709135,
+        "lng": 37.466211318969734
+      }
+    },
+    {
+      "name": "Ivaňkovo",
+      "altNames": {},
+      "location": {
+        "lat": 55.8301554049777,
+        "lng": 37.45335817337037
+      }
+    },
+    {
+      "name": "Petrovo",
+      "altNames": {},
+      "location": {
+        "lat": 55.84424124246268,
+        "lng": 37.42428302764893
+      }
+    },
+    {
+      "name": "Bratcevo",
+      "altNames": {},
+      "location": {
+        "lat": 55.85115577395707,
+        "lng": 37.40737438201905
+      }
     }
   ],
   "transfers": [
@@ -5337,6 +5401,18 @@
     {
       "source": 396,
       "target": 273
+    },
+    {
+      "source": 528,
+      "target": 578
+    },
+    {
+      "source": 241,
+      "target": 578
+    },
+    {
+      "source": 580,
+      "target": 140
     }
   ],
   "lines": {
@@ -9473,6 +9549,62 @@
       "routes": [
         21,
         17
+      ]
+    },
+    {
+      "source": 286,
+      "target": 576,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 576,
+      "target": 577,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 577,
+      "target": 578,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 578,
+      "target": 579,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 579,
+      "target": 580,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 580,
+      "target": 581,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 581,
+      "target": 582,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 582,
+      "target": 583,
+      "routes": [
+        27
       ]
     }
   ],
