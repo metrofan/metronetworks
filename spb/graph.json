@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509846305481,
+  "version": 1509846955791,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -1901,10 +1901,8 @@
       }
     },
     {
-      "name": "Ozerki",
-      "altNames": {
-        "fi": ""
-      },
+      "name": "Poklonnaja gora",
+      "altNames": {},
       "location": {
         "lat": 60.036984,
         "lng": 30.321793
