@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509495116250,
+  "version": 1509846305481,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -2591,10 +2591,8 @@
       }
     },
     {
-      "name": "Granitnaja",
-      "altNames": {
-        "fi": "Graniittikatu"
-      },
+      "name": "Zybuľa",
+      "altNames": {},
       "location": {
         "lat": 59.919987,
         "lng": 30.422565
