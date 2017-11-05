@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509841023419,
+  "version": 1509841372317,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -1693,11 +1693,11 @@
       }
     },
     {
-      "name": "Ulica 800-letia Moskvy",
+      "name": "Jachromskaja",
       "altNames": {},
       "location": {
-        "lat": 55.878079399494,
-        "lng": 37.54584074020386
+        "lat": 55.88014967470807,
+        "lng": 37.54502534866334
       }
     },
     {
