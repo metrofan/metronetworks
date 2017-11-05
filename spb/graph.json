@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509847739884,
+  "version": 1509848823681,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -2089,10 +2089,8 @@
       }
     },
     {
-      "name": "Ligovo",
-      "altNames": {
-        "fi": "Liiha"
-      },
+      "name": "Staro-Panovo",
+      "altNames": {},
       "location": {
         "lat": 59.823301329951896,
         "lng": 30.179119939176662
@@ -2697,9 +2695,9 @@
       }
     },
     {
-      "name": "Poležajevskij park",
+      "name": "Ligovo",
       "altNames": {
-        "fi": "Poležajevinpuisto"
+        "fi": "Liiha"
       },
       "location": {
         "lat": 59.83315440980481,
@@ -3545,10 +3543,8 @@
       }
     },
     {
-      "name": "Volchonskaja",
-      "altNames": {
-        "fi": ""
-      },
+      "name": "Novo-Panovo",
+      "altNames": {},
       "location": {
         "lat": 59.80112662174184,
         "lng": 30.15001086109846
