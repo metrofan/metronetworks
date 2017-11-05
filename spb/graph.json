@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509850341326,
+  "version": 1509850450843,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -2090,7 +2090,9 @@
     },
     {
       "name": "Staro-Panovo",
-      "altNames": {},
+      "altNames": {
+        "fi": "Vanha-Panova"
+      },
       "location": {
         "lat": 59.823301329951896,
         "lng": 30.179119939176662
@@ -3544,7 +3546,9 @@
     },
     {
       "name": "Novo-Panovo",
-      "altNames": {},
+      "altNames": {
+        "fi": "Uusi-Panova"
+      },
       "location": {
         "lat": 59.80112662174184,
         "lng": 30.15001086109846
