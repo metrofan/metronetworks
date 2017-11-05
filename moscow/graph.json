@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509842875137,
+  "version": 1509843110377,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -2741,7 +2741,7 @@
       }
     },
     {
-      "name": "Balašicha",
+      "name": "Zeľonovka",
       "altNames": {},
       "location": {
         "lat": 55.809408969796706,
