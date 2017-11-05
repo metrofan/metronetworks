@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509848823681,
+  "version": 1509849771456,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -3125,9 +3125,9 @@
       }
     },
     {
-      "name": "Uljanka",
+      "name": "Novaja",
       "altNames": {
-        "fi": "Uljaala"
+        "fi": "Rasvala"
       },
       "location": {
         "lat": 59.8245871637331,
