@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509841372317,
+  "version": 1509842875137,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -4682,6 +4682,70 @@
       "location": {
         "lat": 55.936359939266,
         "lng": 37.54736423492432
+      }
+    },
+    {
+      "name": "Nikolo-Archangeľskoje",
+      "altNames": {},
+      "location": {
+        "lat": 55.77803325031881,
+        "lng": 37.90306806564332
+      }
+    },
+    {
+      "name": "Pechra",
+      "altNames": {},
+      "location": {
+        "lat": 55.835566223276196,
+        "lng": 37.959051132202156
+      }
+    },
+    {
+      "name": "Zapadnaja Balašicha",
+      "altNames": {},
+      "location": {
+        "lat": 55.79375442691603,
+        "lng": 37.93330192565918
+      }
+    },
+    {
+      "name": "Novyj svet",
+      "altNames": {},
+      "location": {
+        "lat": 55.8205731562555,
+        "lng": 37.952356338500984
+      }
+    },
+    {
+      "name": "Severnaja Balašicha",
+      "altNames": {},
+      "location": {
+        "lat": 55.82611788980338,
+        "lng": 37.97123908996583
+      }
+    },
+    {
+      "name": "Južnaja Balašicha",
+      "altNames": {},
+      "location": {
+        "lat": 55.79756612793518,
+        "lng": 37.97317028045655
+      }
+    },
+    {
+      "name": "Lukino",
+      "altNames": {},
+      "location": {
+        "lat": 55.83195106065597,
+        "lng": 37.93201446533204
+      }
+    },
+    {
+      "name": "Izumrudnaja",
+      "altNames": {},
+      "location": {
+        "lat": 55.825756300834165,
+        "lng": 37.89085865020753
       }
     }
   ],
@@ -9620,6 +9684,62 @@
       "target": 584,
       "routes": [
         9
+      ]
+    },
+    {
+      "source": 45,
+      "target": 585,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 585,
+      "target": 587,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 588,
+      "target": 586,
+      "routes": [
+        21
+      ]
+    },
+    {
+      "source": 342,
+      "target": 588,
+      "routes": [
+        21
+      ]
+    },
+    {
+      "source": 592,
+      "target": 591,
+      "routes": [
+        0
+      ]
+    },
+    {
+      "source": 587,
+      "target": 590,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 591,
+      "target": 589,
+      "routes": [
+        0
+      ]
+    },
+    {
+      "source": 592,
+      "target": 478,
+      "routes": [
+        0
       ]
     }
   ],
