@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509849771456,
+  "version": 1509850341326,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -1161,9 +1161,9 @@
       }
     },
     {
-      "name": "Graždanka",
+      "name": "Murinskij ručej",
       "altNames": {
-        "fi": "Rastaala"
+        "fi": "Muurolanoja"
       },
       "location": {
         "lat": 60.023123856121906,
@@ -1171,9 +1171,9 @@
       }
     },
     {
-      "name": "Graždanka",
+      "name": "Murinskij ručej",
       "altNames": {
-        "fi": "Rastaala"
+        "fi": "Muurolanoja"
       },
       "location": {
         "lat": 60.02542200201882,
@@ -1791,9 +1791,9 @@
       }
     },
     {
-      "name": "Akademičeskaja",
+      "name": "Graždanka",
       "altNames": {
-        "fi": "Akateeminen"
+        "fi": "Rastaala"
       },
       "location": {
         "lat": 60.012672,
