@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509836226401,
+  "version": 1509841023419,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -1685,7 +1685,7 @@
       }
     },
     {
-      "name": "Beskudnikovo",
+      "name": "Degunino",
       "altNames": {},
       "location": {
         "lat": 55.86500522877051,
@@ -3549,7 +3549,7 @@
       }
     },
     {
-      "name": "Degunino",
+      "name": "Beskudnikovo",
       "altNames": {},
       "location": {
         "lat": 55.86584205937743,
@@ -3557,7 +3557,7 @@
       }
     },
     {
-      "name": "Beskudnikovo",
+      "name": "Severnyje Dubki",
       "altNames": {},
       "location": {
         "lat": 55.88271329274889,
