@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509846955791,
+  "version": 1509847739884,
   "platforms": [
     {
       "name": "Glavnyj voxal",
@@ -2859,7 +2859,7 @@
     {
       "name": "Kurort",
       "altNames": {
-        "fi": ""
+        "fi": "Kylpylä"
       },
       "location": {
         "lat": 60.11109447018771,
