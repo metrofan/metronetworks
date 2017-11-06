@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509927848910,
+  "version": 1509928102906,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -1253,7 +1253,7 @@
       }
     },
     {
-      "name": "Poklonnaja gora",
+      "name": "Kamennaja Plotina",
       "altNames": {},
       "location": {
         "lat": 55.72493498212863,
@@ -2917,7 +2917,7 @@
       }
     },
     {
-      "name": "Sortirovočnaja",
+      "name": "Poklonnaja gora",
       "altNames": {},
       "location": {
         "lat": 55.72854800322259,
