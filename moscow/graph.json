@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509926714371,
+  "version": 1509927131874,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -2237,7 +2237,7 @@
       }
     },
     {
-      "name": "Kommunarka",
+      "name": "Fitařovo",
       "altNames": {},
       "location": {
         "lat": 55.57710743679569,
