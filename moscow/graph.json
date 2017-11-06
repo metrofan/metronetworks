@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509929302709,
+  "version": 1509930242027,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -1469,7 +1469,7 @@
       }
     },
     {
-      "name": "Butyrskaja",
+      "name": "Butyrki",
       "altNames": {},
       "location": {
         "lat": 55.79261747866911,
@@ -1965,7 +1965,7 @@
       }
     },
     {
-      "name": "Butyrskaja",
+      "name": "Butyrki",
       "altNames": {},
       "location": {
         "lat": 55.792680810876696,
@@ -3525,7 +3525,7 @@
       }
     },
     {
-      "name": "Butyrskaja",
+      "name": "Butyrki",
       "altNames": {},
       "location": {
         "lat": 55.79541907641236,
@@ -3645,7 +3645,7 @@
       }
     },
     {
-      "name": "Butyrskaja",
+      "name": "Butyrki",
       "altNames": {},
       "location": {
         "lat": 55.79461088590562,
