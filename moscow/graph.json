@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509930242027,
+  "version": 1509931769473,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -757,7 +757,7 @@
       }
     },
     {
-      "name": "Novaja sloboda",
+      "name": "Novoslobodskaja",
       "altNames": {},
       "location": {
         "lat": 55.77948739358008,
@@ -1461,7 +1461,7 @@
       }
     },
     {
-      "name": "Novaja sloboda",
+      "name": "Novoslobodskaja",
       "altNames": {},
       "location": {
         "lat": 55.781599123270645,
