@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509843110377,
+  "version": 1509926714371,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -2341,7 +2341,7 @@
       }
     },
     {
-      "name": "Losinyj ostrov",
+      "name": "Myza Rajevo",
       "altNames": {},
       "location": {
         "lat": 55.862669232106526,
@@ -2349,7 +2349,7 @@
       }
     },
     {
-      "name": "Loś",
+      "name": "Malyje Mytišči",
       "altNames": {},
       "location": {
         "lat": 55.880197819329716,
