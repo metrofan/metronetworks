@@ -1,6 +1,6 @@
 {
   "graphVersion": "1.0",
-  "version": 1509928102906,
+  "version": 1509929302709,
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -4685,7 +4685,7 @@
       }
     },
     {
-      "name": "Nikolo-Archangeľskoje",
+      "name": "Višňakovskoje šosse",
       "altNames": {},
       "location": {
         "lat": 55.77803325031881,
@@ -4693,7 +4693,7 @@
       }
     },
     {
-      "name": "Pechra",
+      "name": "Nikoľsko-Trubeckoje",
       "altNames": {},
       "location": {
         "lat": 55.835566223276196,
@@ -4725,7 +4725,7 @@
       }
     },
     {
-      "name": "Južnaja Balašicha",
+      "name": "Pechra",
       "altNames": {},
       "location": {
         "lat": 55.79756612793518,
