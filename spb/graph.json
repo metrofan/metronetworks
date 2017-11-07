@@ -2936,10 +2936,8 @@
       }
     },
     {
-      "name": "5km",
-      "altNames": {
-        "fi": ""
-      },
+      "name": "Zavodskaja",
+      "altNames": {},
       "location": {
         "lat": 59.892915042413755,
         "lng": 30.391746613769424
