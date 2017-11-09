@@ -1,6 +1,5 @@
 {
-  "graphVersion": "1.0",
-  "version": 1509931769473,
+  "graphVersion": "1.1",
   "platforms": [
     {
       "name": "Kalančovskaja",
@@ -309,11 +308,11 @@
       }
     },
     {
-      "name": "Pokrovka",
+      "name": "Kuliški",
       "altNames": {},
       "location": {
-        "lat": 55.75933875652691,
-        "lng": 37.646557688713074
+        "lat": 55.756136104616054,
+        "lng": 37.647678852081306
       }
     },
     {
@@ -3861,7 +3860,7 @@
       }
     },
     {
-      "name": "Jauzskije vorota",
+      "name": "Košeli",
       "altNames": {},
       "location": {
         "lat": 55.748794066582754,
