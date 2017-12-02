@@ -8,10 +8,10 @@
 .M8 { stroke: var(--yellow); }
 .M9 { stroke: var(--grey); }
 .M10 { stroke: var(--lime); }
-.M11 { stroke: var(--black); }
+.M11 { stroke: var(--teal); }
 .M12 { stroke: var(--cyan); }
 .M13 { stroke: var(--magenta); }
-.M14 { stroke: var(--teal); }
+.M14 { stroke: var(--black); }
 .M15 { stroke: var(--pink); }
 .E { stroke: var(--blue); }
 .E1 { stroke: rgb(244,128,38); }
