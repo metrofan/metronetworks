@@ -30,7 +30,7 @@
 .M11 { stroke: var(--black); } /* Aviacionnaja */
 .M12 { stroke: var(--lime); } /* Kinovejevskaja */
 .E { stroke:  var(--blue); }
-.L { stroke: var(--cyan); }
+.L { stroke: var(--teal); }
 #paths-inner * { stroke: #FFFFFF; }
 
 /* wikipedia */
