@@ -1282,7 +1282,7 @@
       }
     },
     {
-      "name": "Lidingö",
+      "name": "Lidingö centrum",
       "altNames": {},
       "location": {
         "lat": 59.36504996311655,
@@ -1344,6 +1344,46 @@
         "lat": 59.41104588313439,
         "lng": 17.803602218627933
       }
+    },
+    {
+      "name": "Flaten",
+      "altNames": {},
+      "location": {
+        "lat": 59.25359644057636,
+        "lng": 18.16400527954102
+      }
+    },
+    {
+      "name": "Älta",
+      "altNames": {},
+      "location": {
+        "lat": 59.25745766248799,
+        "lng": 18.182094097137455
+      }
+    },
+    {
+      "name": "Högmora",
+      "altNames": {},
+      "location": {
+        "lat": 59.2579841588541,
+        "lng": 18.217821121215824
+      }
+    },
+    {
+      "name": "Tyresö centrum",
+      "altNames": {},
+      "location": {
+        "lat": 59.244457203950724,
+        "lng": 18.229740858078006
+      }
+    },
+    {
+      "name": "Älvsjö",
+      "altNames": {},
+      "location": {
+        "lat": 59.277963069577396,
+        "lng": 18.011784553527836
+      }
     }
   ],
   "transfers": [
@@ -1370,6 +1410,10 @@
     {
       "source": 99,
       "target": 134
+    },
+    {
+      "source": 172,
+      "target": 133
     }
   ],
   "lines": {
@@ -2623,6 +2667,41 @@
     {
       "source": 166,
       "target": 167,
+      "routes": [
+        0
+      ]
+    },
+    {
+      "source": 90,
+      "target": 168,
+      "routes": [
+        2
+      ]
+    },
+    {
+      "source": 168,
+      "target": 169,
+      "routes": [
+        2
+      ]
+    },
+    {
+      "source": 169,
+      "target": 170,
+      "routes": [
+        2
+      ]
+    },
+    {
+      "source": 170,
+      "target": 171,
+      "routes": [
+        2
+      ]
+    },
+    {
+      "source": 83,
+      "target": 172,
       "routes": [
         0
       ]
