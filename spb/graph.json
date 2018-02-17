@@ -2180,7 +2180,8 @@
     {
       "name": "Aeroport Pulkovo",
       "altNames": {
-        "fi": "Pulkkalan lentoasema"
+        "fi": "Pulkkalan lentoasema",
+        "en": "Pulkovo Airport"
       },
       "location": {
         "lat": 59.79783125070072,
@@ -3702,7 +3703,8 @@
     {
       "name": "Aeroport Levašovo",
       "altNames": {
-        "fi": "Levassovan lentoasema"
+        "fi": "Levassovan lentoasema",
+        "en": "Levašovo Airport"
       },
       "location": {
         "lat": 60.08868881306907,
