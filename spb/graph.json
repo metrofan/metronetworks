@@ -3583,13 +3583,13 @@
       }
     },
     {
-      "name": "Tentelevo",
+      "name": "Lesoparkovaja",
       "altNames": {
-        "fi": "Tönttölä"
+        "fi": "Metsänkatu"
       },
       "location": {
-        "lat": 59.888355590468755,
-        "lng": 30.294606685638424
+        "lat": 59.970691950025774,
+        "lng": 30.51401138305664
       }
     },
     {
@@ -3749,16 +3749,6 @@
       "location": {
         "lat": 59.84321951048195,
         "lng": 30.527658462524414
-      }
-    },
-    {
-      "name": "Lesoparkovaja",
-      "altNames": {
-        "fi": "Metsänkatu"
-      },
-      "location": {
-        "lat": 59.970691950025774,
-        "lng": 30.51401138305664
       }
     }
   ],
@@ -6190,7 +6180,7 @@
     },
     {
       "source": 90,
-      "target": 359,
+      "target": 94,
       "routes": [
         15,
         16,
@@ -6200,13 +6190,9 @@
       ]
     },
     {
-      "source": 359,
-      "target": 94,
+      "source": 350,
+      "target": 374,
       "routes": [
-        15,
-        16,
-        17,
-        18,
         22
       ]
     },
@@ -6979,23 +6965,16 @@
     },
     {
       "source": 368,
-      "target": 376,
+      "target": 359,
       "routes": [
         9
       ]
     },
     {
-      "source": 376,
+      "source": 359,
       "target": 306,
       "routes": [
         9
-      ]
-    },
-    {
-      "source": 350,
-      "target": 374,
-      "routes": [
-        22
       ]
     }
   ],
