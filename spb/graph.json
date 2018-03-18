@@ -3750,13 +3750,22 @@
       }
     },
     {
+      "name": "dummy",
+      "altNames": {},
+      "location": {
+        "lat": 59.983950501169495,
+        "lng": 30.33934593200684
+      },
+      "type": "dummy"
+    },
+    {
       "name": "Finlandskij voxal",
       "altNames": {
         "fi": "Suomen asema"
       },
       "location": {
-        "lat": 59.95578017022763,
-        "lng": 30.356607902358522
+        "lat": 59.95574912244448,
+        "lng": 30.35659188899445
       }
     }
   ],
@@ -4182,8 +4191,8 @@
       "target": 174
     },
     {
-      "source": 49,
-      "target": 376
+      "source": 377,
+      "target": 49
     }
   ],
   "lines": {
@@ -6720,7 +6729,7 @@
       ]
     },
     {
-      "source": 100,
+      "source": 377,
       "target": 376,
       "routes": [
         21,
@@ -6988,6 +6997,17 @@
       "target": 169,
       "routes": [
         20
+      ]
+    },
+    {
+      "source": 100,
+      "target": 377,
+      "routes": [
+        21,
+        20,
+        19,
+        16,
+        18
       ]
     }
   ],
