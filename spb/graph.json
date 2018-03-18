@@ -4190,6 +4190,123 @@
         "lng": 29.98911278089509
       },
       "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.909401869220595,
+        "lng": 29.797043617581956
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.89080648299554,
+        "lng": 29.821419533109292
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.84986575067573,
+        "lng": 30.020796841126874
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.84598562716861,
+        "lng": 30.03779131744523
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.84405203815041,
+        "lng": 30.053037774050612
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.85141767342454,
+        "lng": 30.008265560609292
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.84762395671348,
+        "lng": 30.002257412415933
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.811754826899524,
+        "lng": 30.161657547578216
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.820903348731306,
+        "lng": 30.16680738888681
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.76887402542074,
+        "lng": 30.11669291183353
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.74526225933794,
+        "lng": 30.117105930112306
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.707474020148446,
+        "lng": 30.11950918938965
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.69879031257525,
+        "lng": 30.438435429241512
+      },
+      "type": "dummy"
     }
   ],
   "transfers": [
@@ -6428,21 +6545,21 @@
     },
     {
       "source": 208,
-      "target": 239,
+      "target": 429,
       "routes": [
         5
       ]
     },
     {
       "source": 251,
-      "target": 208,
+      "target": 431,
       "routes": [
         5
       ]
     },
     {
       "source": 337,
-      "target": 336,
+      "target": 425,
       "routes": [
         15,
         17
@@ -6450,7 +6567,7 @@
     },
     {
       "source": 336,
-      "target": 335,
+      "target": 426,
       "routes": [
         15,
         17
@@ -6490,7 +6607,7 @@
     },
     {
       "source": 328,
-      "target": 208,
+      "target": 427,
       "routes": [
         15,
         17
@@ -6498,7 +6615,7 @@
     },
     {
       "source": 208,
-      "target": 327,
+      "target": 428,
       "routes": [
         15,
         17
@@ -6522,21 +6639,21 @@
     },
     {
       "source": 317,
-      "target": 316,
+      "target": 436,
       "routes": [
         22
       ]
     },
     {
       "source": 316,
-      "target": 315,
+      "target": 435,
       "routes": [
         22
       ]
     },
     {
       "source": 315,
-      "target": 314,
+      "target": 434,
       "routes": [
         22
       ]
@@ -6550,7 +6667,7 @@
     },
     {
       "source": 355,
-      "target": 209,
+      "target": 432,
       "routes": [
         22
       ]
@@ -7146,7 +7263,7 @@
     },
     {
       "source": 339,
-      "target": 338,
+      "target": 437,
       "routes": [
         19
       ]
@@ -7771,6 +7888,101 @@
       "target": 279,
       "routes": [
         21
+      ]
+    },
+    {
+      "source": 425,
+      "target": 336,
+      "routes": [
+        15,
+        17
+      ]
+    },
+    {
+      "source": 426,
+      "target": 335,
+      "routes": [
+        15,
+        17
+      ]
+    },
+    {
+      "source": 427,
+      "target": 208,
+      "routes": [
+        15,
+        17
+      ]
+    },
+    {
+      "source": 428,
+      "target": 327,
+      "routes": [
+        15,
+        17
+      ]
+    },
+    {
+      "source": 429,
+      "target": 239,
+      "routes": [
+        5
+      ]
+    },
+    {
+      "source": 430,
+      "target": 208,
+      "routes": [
+        5
+      ]
+    },
+    {
+      "source": 431,
+      "target": 430,
+      "routes": [
+        5
+      ]
+    },
+    {
+      "source": 432,
+      "target": 433,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 433,
+      "target": 209,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 434,
+      "target": 314,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 435,
+      "target": 315,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 436,
+      "target": 316,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 437,
+      "target": 338,
+      "routes": [
+        19
       ]
     }
   ],
