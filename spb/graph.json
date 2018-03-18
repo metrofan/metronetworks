@@ -484,13 +484,11 @@
       }
     },
     {
-      "name": "Finlandskij voxal",
-      "altNames": {
-        "fi": "Suomen asema"
-      },
+      "name": "Kušelevka",
+      "altNames": {},
       "location": {
-        "lat": 59.955683801194795,
-        "lng": 30.356483998945823
+        "lat": 59.99012264324696,
+        "lng": 30.349001884460453
       }
     },
     {
@@ -2559,11 +2557,13 @@
       }
     },
     {
-      "name": "Kušelevka",
-      "altNames": {},
+      "name": "Laboratornaja",
+      "altNames": {
+        "fi": "Laboratoriotie"
+      },
       "location": {
-        "lat": 59.98560431767246,
-        "lng": 30.36554240214173
+        "lat": 59.97949621849902,
+        "lng": 30.381832122802738
       }
     },
     {
@@ -3750,11 +3750,13 @@
       }
     },
     {
-      "name": "Kušelevka",
-      "altNames": {},
+      "name": "Finlandskij voxal",
+      "altNames": {
+        "fi": "Suomen asema"
+      },
       "location": {
-        "lat": 59.98646401755358,
-        "lng": 30.363335263682533
+        "lat": 59.95578017022763,
+        "lng": 30.356607902358522
       }
     }
   ],
@@ -3844,8 +3846,8 @@
       "target": 36
     },
     {
-      "source": 256,
-      "target": 376
+      "source": 242,
+      "target": 93
     },
     {
       "source": 39,
@@ -3872,8 +3874,8 @@
       "target": 47
     },
     {
-      "source": 48,
-      "target": 49
+      "source": 142,
+      "target": 369
     },
     {
       "source": 49,
@@ -4180,12 +4182,8 @@
       "target": 174
     },
     {
-      "source": 142,
-      "target": 369
-    },
-    {
-      "source": 242,
-      "target": 93
+      "source": 49,
+      "target": 376
     }
   ],
   "lines": {
@@ -6259,7 +6257,7 @@
       ]
     },
     {
-      "source": 376,
+      "source": 48,
       "target": 114,
       "routes": [
         19,
@@ -6722,7 +6720,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 100,
       "target": 376,
       "routes": [
         21,
@@ -6773,14 +6771,11 @@
       ]
     },
     {
-      "source": 100,
+      "source": 376,
       "target": 48,
       "routes": [
-        21,
-        20,
         19,
-        16,
-        18
+        16
       ]
     },
     {
