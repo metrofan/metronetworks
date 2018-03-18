@@ -3178,8 +3178,8 @@
         "fi": ""
       },
       "location": {
-        "lat": 59.83279390107376,
-        "lng": 30.290218915344017
+        "lat": 59.83255112703823,
+        "lng": 30.290395496995195
       }
     },
     {
@@ -3792,7 +3792,8 @@
       "location": {
         "lat": 60.14098887483463,
         "lng": 30.00591842341237
-      }
+      },
+      "type": "dummy"
     },
     {
       "name": "New station",
@@ -4079,6 +4080,114 @@
       "location": {
         "lat": 60.01635997459924,
         "lng": 30.67038855340798
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.758996934432,
+        "lng": 30.38343338062987
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.74152840823756,
+        "lng": 30.357684174086902
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.81128913017311,
+        "lng": 30.328703618142757
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.821162227348985,
+        "lng": 30.304986714036207
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.93486313804572,
+        "lng": 30.462638798053376
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.93293720641049,
+        "lng": 30.502111464156773
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.93027095557596,
+        "lng": 30.501253157272007
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.929252907397576,
+        "lng": 30.56013370107394
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.920926895303865,
+        "lng": 30.575768967974003
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 60.10070012514821,
+        "lng": 30.23259901092388
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 60.13953627692094,
+        "lng": 30.041991703910757
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 60.14945313634427,
+        "lng": 29.98911278089509
       },
       "type": "dummy"
     }
@@ -6158,7 +6267,7 @@
     },
     {
       "source": 352,
-      "target": 373,
+      "target": 419,
       "routes": [
         22
       ]
@@ -6475,21 +6584,21 @@
     },
     {
       "source": 320,
-      "target": 360,
+      "target": 414,
       "routes": [
         16
       ]
     },
     {
       "source": 360,
-      "target": 319,
+      "target": 413,
       "routes": [
         16
       ]
     },
     {
       "source": 319,
-      "target": 318,
+      "target": 416,
       "routes": [
         16
       ]
@@ -6534,7 +6643,7 @@
     },
     {
       "source": 129,
-      "target": 352,
+      "target": 417,
       "routes": [
         15,
         17,
@@ -6543,7 +6652,7 @@
     },
     {
       "source": 352,
-      "target": 323,
+      "target": 418,
       "routes": [
         15,
         17
@@ -6559,7 +6668,7 @@
     },
     {
       "source": 332,
-      "target": 324,
+      "target": 420,
       "routes": [
         15,
         17
@@ -6738,7 +6847,7 @@
     },
     {
       "source": 144,
-      "target": 283,
+      "target": 422,
       "routes": [
         21
       ]
@@ -6759,7 +6868,7 @@
     },
     {
       "source": 281,
-      "target": 280,
+      "target": 423,
       "routes": [
         21
       ]
@@ -7147,7 +7256,7 @@
     },
     {
       "source": 324,
-      "target": 325,
+      "target": 421,
       "routes": [
         17
       ]
@@ -7231,7 +7340,7 @@
     },
     {
       "source": 280,
-      "target": 279,
+      "target": 424,
       "routes": [
         21
       ]
@@ -7574,6 +7683,94 @@
       "target": 309,
       "routes": [
         19
+      ]
+    },
+    {
+      "source": 413,
+      "target": 415,
+      "routes": [
+        16
+      ]
+    },
+    {
+      "source": 414,
+      "target": 360,
+      "routes": [
+        16
+      ]
+    },
+    {
+      "source": 415,
+      "target": 319,
+      "routes": [
+        16
+      ]
+    },
+    {
+      "source": 416,
+      "target": 318,
+      "routes": [
+        16
+      ]
+    },
+    {
+      "source": 417,
+      "target": 352,
+      "routes": [
+        15,
+        17,
+        22
+      ]
+    },
+    {
+      "source": 418,
+      "target": 323,
+      "routes": [
+        15,
+        17
+      ]
+    },
+    {
+      "source": 419,
+      "target": 373,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 420,
+      "target": 324,
+      "routes": [
+        15,
+        17
+      ]
+    },
+    {
+      "source": 421,
+      "target": 325,
+      "routes": [
+        17
+      ]
+    },
+    {
+      "source": 422,
+      "target": 283,
+      "routes": [
+        21
+      ]
+    },
+    {
+      "source": 423,
+      "target": 280,
+      "routes": [
+        21
+      ]
+    },
+    {
+      "source": 424,
+      "target": 279,
+      "routes": [
+        21
       ]
     }
   ],
