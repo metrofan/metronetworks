@@ -384,13 +384,13 @@
       }
     },
     {
-      "name": "Vyborgskaja",
+      "name": "Malaja Kušelevka",
       "altNames": {
-        "fi": "Viipurin puoli"
+        "fi": "Pieni-Kušelevka"
       },
       "location": {
-        "lat": 59.96972087171786,
-        "lng": 30.348095868062472
+        "lat": 59.98640386837706,
+        "lng": 30.35180043691071
       }
     },
     {
@@ -930,13 +930,13 @@
       }
     },
     {
-      "name": "Karpovka",
+      "name": "Kantemirovskaja",
       "altNames": {
-        "fi": "Korpijoki"
+        "fi": "Kantemirovkankatu"
       },
       "location": {
-        "lat": 59.96492460725691,
-        "lng": 30.330892644221745
+        "lat": 59.980380885555185,
+        "lng": 30.325809359419512
       }
     },
     {
@@ -1057,8 +1057,8 @@
         "fi": "Lev Tolstoj'n tori"
       },
       "location": {
-        "lat": 59.96568375446023,
-        "lng": 30.315008838653522
+        "lat": 59.96393639380896,
+        "lng": 30.313809993167528
       }
     },
     {
@@ -1067,8 +1067,8 @@
         "fi": "Lev Tolstoj'n tori"
       },
       "location": {
-        "lat": 59.96391937939819,
-        "lng": 30.31369992065429
+        "lat": 59.96575149374219,
+        "lng": 30.31496870746196
       }
     },
     {
@@ -2559,13 +2559,11 @@
       }
     },
     {
-      "name": "Čugunnaja",
-      "altNames": {
-        "fi": "Valurautakatu"
-      },
+      "name": "Kušelevka",
+      "altNames": {},
       "location": {
-        "lat": 59.970741,
-        "lng": 30.365036
+        "lat": 59.98560431767246,
+        "lng": 30.36554240214173
       }
     },
     {
@@ -3846,8 +3844,8 @@
       "target": 36
     },
     {
-      "source": 37,
-      "target": 38
+      "source": 256,
+      "target": 376
     },
     {
       "source": 39,
@@ -3978,8 +3976,8 @@
       "target": 91
     },
     {
-      "source": 92,
-      "target": 93
+      "source": 38,
+      "target": 181
     },
     {
       "source": 94,
@@ -4184,6 +4182,10 @@
     {
       "source": 142,
       "target": 369
+    },
+    {
+      "source": 242,
+      "target": 93
     }
   ],
   "lines": {
