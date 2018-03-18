@@ -1690,13 +1690,13 @@
       }
     },
     {
-      "name": "Čornaja rečka",
+      "name": "Novosibirskaja",
       "altNames": {
-        "fi": "Mustajoki"
+        "fi": "Novosibirskinkatu"
       },
       "location": {
-        "lat": 59.98636377891378,
-        "lng": 30.299482555620166
+        "lat": 59.99322371672276,
+        "lng": 30.30091059976258
       }
     },
     {
@@ -3750,6 +3750,14 @@
         "lat": 59.84321951048195,
         "lng": 30.527658462524414
       }
+    },
+    {
+      "name": "Kušelevka",
+      "altNames": {},
+      "location": {
+        "lat": 59.98646401755358,
+        "lng": 30.363335263682533
+      }
     }
   ],
   "transfers": [
@@ -4162,8 +4170,8 @@
       "target": 167
     },
     {
-      "source": 169,
-      "target": 170
+      "source": 189,
+      "target": 366
     },
     {
       "source": 171,
@@ -4176,10 +4184,6 @@
     {
       "source": 142,
       "target": 369
-    },
-    {
-      "source": 189,
-      "target": 366
     }
   ],
   "lines": {
@@ -6253,7 +6257,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 376,
       "target": 114,
       "routes": [
         19,
@@ -6303,10 +6307,11 @@
       ]
     },
     {
-      "source": 48,
-      "target": 169,
+      "source": 376,
+      "target": 154,
       "routes": [
-        20
+        21,
+        18
       ]
     },
     {
@@ -6715,10 +6720,10 @@
     },
     {
       "source": 48,
-      "target": 154,
+      "target": 376,
       "routes": [
-        21,
-        18
+        19,
+        16
       ]
     },
     {
@@ -6975,6 +6980,13 @@
       "target": 306,
       "routes": [
         9
+      ]
+    },
+    {
+      "source": 154,
+      "target": 169,
+      "routes": [
+        20
       ]
     }
   ],
