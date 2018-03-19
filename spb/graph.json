@@ -1529,9 +1529,7 @@
     },
     {
       "name": "Lanskaja",
-      "altNames": {
-        "fi": ""
-      },
+      "altNames": {},
       "location": {
         "lat": 59.99676940395442,
         "lng": 30.32294714630536
@@ -4310,7 +4308,7 @@
       "type": "dummy"
     },
     {
-      "name": "New station",
+      "name": "Lanskaja",
       "altNames": {},
       "location": {
         "lat": 59.995198508585936,
