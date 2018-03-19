@@ -1218,13 +1218,13 @@
       }
     },
     {
-      "name": "Lahta",
+      "name": "Severnaja Lahta",
       "altNames": {
-        "fi": "Lahti"
+        "fi": "Pohjois-Lahti"
       },
       "location": {
-        "lat": 59.99454112354975,
-        "lng": 30.150204098576406
+        "lat": 60.00161431845047,
+        "lng": 30.154154890333306
       }
     },
     {
@@ -3894,13 +3894,12 @@
       "type": "dummy"
     },
     {
-      "name": "New station",
+      "name": "Bobylka",
       "altNames": {},
       "location": {
-        "lat": 59.98955985356179,
-        "lng": 30.174907031469054
-      },
-      "type": "dummy"
+        "lat": 59.98958196943842,
+        "lng": 30.173707380090498
+      }
     },
     {
       "name": "New station",
@@ -4635,8 +4634,8 @@
       "target": 121
     },
     {
-      "source": 122,
-      "target": 123
+      "source": 392,
+      "target": 241
     },
     {
       "source": 124,
