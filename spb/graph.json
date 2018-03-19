@@ -1543,9 +1543,10 @@
         "fi": ""
       },
       "location": {
-        "lat": 59.99535064194707,
-        "lng": 30.327142121204595
-      }
+        "lat": 59.99807299182859,
+        "lng": 30.324034316581677
+      },
+      "type": "dummy"
     },
     {
       "name": "Srednij prospekt",
@@ -3970,8 +3971,8 @@
       "name": "New station",
       "altNames": {},
       "location": {
-        "lat": 59.99999683519353,
-        "lng": 30.323191995557867
+        "lat": 60.00089471973696,
+        "lng": 30.322510821861222
       },
       "type": "dummy"
     },
@@ -4307,6 +4308,14 @@
         "lng": 30.438435429241512
       },
       "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.995198508585936,
+        "lng": 30.327308177948
+      }
     }
   ],
   "transfers": [
@@ -4675,8 +4684,8 @@
       "target": 150
     },
     {
-      "source": 153,
-      "target": 154
+      "source": 377,
+      "target": 49
     },
     {
       "source": 155,
@@ -4731,8 +4740,8 @@
       "target": 174
     },
     {
-      "source": 377,
-      "target": 49
+      "source": 153,
+      "target": 438
     }
   ],
   "lines": {
@@ -6857,7 +6866,7 @@
     },
     {
       "source": 405,
-      "target": 154,
+      "target": 438,
       "routes": [
         21,
         20,
@@ -7983,6 +7992,15 @@
       "target": 338,
       "routes": [
         19
+      ]
+    },
+    {
+      "source": 438,
+      "target": 154,
+      "routes": [
+        21,
+        20,
+        18
       ]
     }
   ],
