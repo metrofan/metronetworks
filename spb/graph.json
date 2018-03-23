@@ -4448,6 +4448,15 @@
         "lng": 30.62195789068938
       },
       "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.93421891264581,
+        "lng": 30.609326022095054
+      },
+      "type": "dummy"
     }
   ],
   "transfers": [
@@ -6933,10 +6942,10 @@
       ]
     },
     {
-      "source": 324,
-      "target": 333,
+      "source": 453,
+      "target": 322,
       "routes": [
-        15
+        22
       ]
     },
     {
@@ -8240,10 +8249,17 @@
       ]
     },
     {
-      "source": 453,
-      "target": 322,
+      "source": 420,
+      "target": 454,
       "routes": [
-        22
+        15
+      ]
+    },
+    {
+      "source": 454,
+      "target": 333,
+      "routes": [
+        15
       ]
     }
   ],
