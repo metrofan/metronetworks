@@ -4754,6 +4754,78 @@
         "lat": 55.55502529024404,
         "lng": 37.488131336867816
       }
+    },
+    {
+      "name": "Bolševo",
+      "altNames": {},
+      "location": {
+        "lat": 55.9305451608047,
+        "lng": 37.85745358094573
+      }
+    },
+    {
+      "name": "Pervomajskaja",
+      "altNames": {},
+      "location": {
+        "lat": 55.94662557853118,
+        "lng": 37.86131143569947
+      }
+    },
+    {
+      "name": "Zeľonyj bor",
+      "altNames": {},
+      "location": {
+        "lat": 55.96294408278734,
+        "lng": 37.87847711239011
+      }
+    },
+    {
+      "name": "Komarovka",
+      "altNames": {},
+      "location": {
+        "lat": 55.95810897588629,
+        "lng": 37.85357267595828
+      }
+    },
+    {
+      "name": "Zapadnaja Ivantejevka",
+      "altNames": {},
+      "location": {
+        "lat": 55.96172504672352,
+        "lng": 37.9079456627369
+      }
+    },
+    {
+      "name": "Centraľnaja Ivantejevka",
+      "altNames": {},
+      "location": {
+        "lat": 55.964728583247364,
+        "lng": 37.93915014714003
+      }
+    },
+    {
+      "name": "Vostočnaja Ivantejevka",
+      "altNames": {},
+      "location": {
+        "lat": 55.96814713296073,
+        "lng": 37.96177105978132
+      }
+    },
+    {
+      "name": "Zapadnoje Fřazino",
+      "altNames": {},
+      "location": {
+        "lat": 55.96335018503189,
+        "lng": 38.030477436259396
+      }
+    },
+    {
+      "name": "Fřazino",
+      "altNames": {},
+      "location": {
+        "lat": 55.96368436232181,
+        "lng": 38.043503290973604
+      }
     }
   ],
   "transfers": [
@@ -9754,6 +9826,69 @@
       "target": 593,
       "routes": [
         0
+      ]
+    },
+    {
+      "source": 460,
+      "target": 594,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 594,
+      "target": 595,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 595,
+      "target": 597,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 597,
+      "target": 596,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 596,
+      "target": 598,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 598,
+      "target": 599,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 599,
+      "target": 600,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 600,
+      "target": 601,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 601,
+      "target": 602,
+      "routes": [
+        23
       ]
     }
   ],
