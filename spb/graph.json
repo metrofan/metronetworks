@@ -4617,10 +4617,12 @@
       "target": 71
     },
     {
+      "type": "osi",
       "source": 71,
       "target": 72
     },
     {
+      "type": "osi",
       "source": 72,
       "target": 70
     },
