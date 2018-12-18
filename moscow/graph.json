@@ -4487,8 +4487,8 @@
       "name": "Poľany",
       "altNames": {},
       "location": {
-        "lat": 55.54752348113941,
-        "lng": 37.555646896362305
+        "lat": 55.54758322816502,
+        "lng": 37.555669108405716
       }
     },
     {
@@ -5018,14 +5018,17 @@
       "target": 114
     },
     {
+      "type": "osi",
       "source": 185,
       "target": 223
     },
     {
+      "type": "osi",
       "source": 224,
       "target": 207
     },
     {
+      "type": "osi",
       "source": 117,
       "target": 227
     },
@@ -5126,6 +5129,7 @@
       "target": 519
     },
     {
+      "type": "osi",
       "source": 284,
       "target": 417
     },
@@ -5154,14 +5158,17 @@
       "target": 297
     },
     {
+      "type": "osi",
       "source": 11,
       "target": 298
     },
     {
+      "type": "osi",
       "source": 301,
       "target": 274
     },
     {
+      "type": "osi",
       "source": 312,
       "target": 187
     },
@@ -5170,18 +5177,22 @@
       "target": 313
     },
     {
+      "type": "osi",
       "source": 314,
       "target": 315
     },
     {
+      "type": "osi",
       "source": 22,
       "target": 318
     },
     {
+      "type": "osi",
       "source": 323,
       "target": 252
     },
     {
+      "type": "osi",
       "source": 216,
       "target": 560
     },
@@ -5190,6 +5201,7 @@
       "target": 283
     },
     {
+      "type": "osi",
       "source": 311,
       "target": 208
     },
@@ -5226,6 +5238,7 @@
       "target": 345
     },
     {
+      "type": "osi",
       "source": 59,
       "target": 350
     },
@@ -5238,6 +5251,7 @@
       "target": 334
     },
     {
+      "type": "osi",
       "source": 252,
       "target": 334
     },
@@ -5254,10 +5268,12 @@
       "target": 363
     },
     {
+      "type": "osi",
       "source": 236,
       "target": 375
     },
     {
+      "type": "osi",
       "source": 269,
       "target": 378
     },
@@ -5266,10 +5282,12 @@
       "target": 379
     },
     {
+      "type": "osi",
       "source": 170,
       "target": 380
     },
     {
+      "type": "osi",
       "source": 381,
       "target": 214
     },
@@ -5282,38 +5300,47 @@
       "target": 395
     },
     {
+      "type": "osi",
       "source": 559,
       "target": 353
     },
     {
+      "type": "osi",
       "source": 27,
       "target": 397
     },
     {
+      "type": "osi",
       "source": 93,
       "target": 397
     },
     {
+      "type": "osi",
       "source": 137,
       "target": 398
     },
     {
+      "type": "osi",
       "source": 46,
       "target": 400
     },
     {
+      "type": "osi",
       "source": 286,
       "target": 400
     },
     {
+      "type": "osi",
       "source": 51,
       "target": 401
     },
     {
+      "type": "osi",
       "source": 142,
       "target": 467
     },
     {
+      "type": "osi",
       "source": 462,
       "target": 184
     },
@@ -5322,14 +5349,17 @@
       "target": 511
     },
     {
+      "type": "osi",
       "source": 78,
       "target": 416
     },
     {
+      "type": "osi",
       "source": 416,
       "target": 249
     },
     {
+      "type": "osi",
       "source": 148,
       "target": 418
     },
@@ -5342,14 +5372,17 @@
       "target": 423
     },
     {
+      "type": "osi",
       "source": 261,
       "target": 424
     },
     {
+      "type": "osi",
       "source": 247,
       "target": 427
     },
     {
+      "type": "osi",
       "source": 186,
       "target": 429
     },
@@ -5366,10 +5399,12 @@
       "target": 440
     },
     {
+      "type": "osi",
       "source": 185,
       "target": 441
     },
     {
+      "type": "osi",
       "source": 441,
       "target": 223
     },
@@ -5394,10 +5429,12 @@
       "target": 454
     },
     {
+      "type": "osi",
       "source": 440,
       "target": 455
     },
     {
+      "type": "osi",
       "source": 183,
       "target": 455
     },
@@ -5406,6 +5443,7 @@
       "target": 476
     },
     {
+      "type": "osi",
       "source": 321,
       "target": 149
     },
@@ -5418,18 +5456,22 @@
       "target": 67
     },
     {
+      "type": "osi",
       "source": 54,
       "target": 327
     },
     {
+      "type": "osi",
       "source": 195,
       "target": 326
     },
     {
+      "type": "osi",
       "source": 238,
       "target": 402
     },
     {
+      "type": "osi",
       "source": 513,
       "target": 291
     },
@@ -5446,10 +5488,12 @@
       "target": 531
     },
     {
+      "type": "osi",
       "source": 384,
       "target": 558
     },
     {
+      "type": "osi",
       "source": 532,
       "target": 320
     },
@@ -5490,6 +5534,7 @@
       "target": 107
     },
     {
+      "type": "osi",
       "source": 380,
       "target": 547
     },
@@ -5502,6 +5547,7 @@
       "target": 549
     },
     {
+      "type": "osi",
       "source": 549,
       "target": 328
     },
@@ -5514,6 +5560,7 @@
       "target": 154
     },
     {
+      "type": "osi",
       "source": 45,
       "target": 341
     },
@@ -5530,6 +5577,7 @@
       "target": 349
     },
     {
+      "type": "osi",
       "source": 557,
       "target": 350
     },
@@ -5564,6 +5612,26 @@
     {
       "source": 580,
       "target": 140
+    },
+    {
+      "type": "osi",
+      "source": 319,
+      "target": 80
+    },
+    {
+      "type": "osi",
+      "source": 23,
+      "target": 317
+    },
+    {
+      "type": "osi",
+      "source": 465,
+      "target": 31
+    },
+    {
+      "type": "osi",
+      "source": 31,
+      "target": 308
     }
   ],
   "lines": {
