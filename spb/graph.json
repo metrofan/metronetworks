@@ -4777,7 +4777,6 @@
       "target": 125
     },
     {
-      "type": "osi",
       "source": 126,
       "target": 127
     },
@@ -4840,7 +4839,6 @@
       "target": 266
     },
     {
-      "type": "osi",
       "source": 159,
       "target": 160
     },
