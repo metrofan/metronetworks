@@ -4826,6 +4826,30 @@
         "lat": 55.96368436232181,
         "lng": 38.043503290973604
       }
+    },
+    {
+      "name": "Vostočnyje Ľubercy",
+      "altNames": {},
+      "location": {
+        "lat": 55.672550948546444,
+        "lng": 37.93261528015137
+      }
+    },
+    {
+      "name": "Koreňovo",
+      "altNames": {},
+      "location": {
+        "lat": 55.66812193392253,
+        "lng": 38.000764846801765
+      }
+    },
+    {
+      "name": "Ovražki",
+      "altNames": {},
+      "location": {
+        "lat": 55.66467181832852,
+        "lng": 38.033408001065254
+      }
     }
   ],
   "transfers": [
@@ -9964,6 +9988,27 @@
       "target": 602,
       "routes": [
         23
+      ]
+    },
+    {
+      "source": 426,
+      "target": 603,
+      "routes": [
+        24
+      ]
+    },
+    {
+      "source": 603,
+      "target": 604,
+      "routes": [
+        24
+      ]
+    },
+    {
+      "source": 604,
+      "target": 605,
+      "routes": [
+        24
       ]
     }
   ],
