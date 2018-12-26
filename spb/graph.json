@@ -4416,7 +4416,8 @@
       "location": {
         "lat": 59.8954755555607,
         "lng": 30.360233215615157
-      }
+      },
+      "type": "dummy"
     },
     {
       "name": "New station",
@@ -4944,11 +4945,6 @@
       "type": "osi",
       "source": 150,
       "target": 433
-    },
-    {
-      "type": "osi",
-      "source": 25,
-      "target": 450
     },
     {
       "source": 7,
