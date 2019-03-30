@@ -1,6 +1,159 @@
 {
   "graphVersion": "1.1",
-  "platforms": [],
+  "platforms": [
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.51842042096276,
+        "lng": -0.17862657085061076
+      }
+    },
+    {
+      "name": "Paddington",
+      "altNames": {},
+      "location": {
+        "lat": 51.51842042096276,
+        "lng": -0.17862657085061076
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.52026347261152,
+        "lng": -0.1665720529854298
+      }
+    },
+    {
+      "name": "Edgware Road",
+      "altNames": {},
+      "location": {
+        "lat": 51.52026347261152,
+        "lng": -0.1665720529854298
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.52257822562892,
+        "lng": -0.15672415494918826
+      }
+    },
+    {
+      "name": "Baker Street",
+      "altNames": {},
+      "location": {
+        "lat": 51.52257822562892,
+        "lng": -0.15672415494918826
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.523726248991885,
+        "lng": -0.14390579424798491
+      }
+    },
+    {
+      "name": "Great Portland Street",
+      "altNames": {},
+      "location": {
+        "lat": 51.523726248991885,
+        "lng": -0.14390579424798491
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.52589976340052,
+        "lng": -0.135024581104517
+      }
+    },
+    {
+      "name": "Euston Square",
+      "altNames": {},
+      "location": {
+        "lat": 51.52589976340052,
+        "lng": -0.135024581104517
+      }
+    },
+    {
+      "name": "King's Cross St Pancras",
+      "altNames": {},
+      "location": {
+        "lat": 51.530278601630194,
+        "lng": -0.12398712337017061
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.52009104662752,
+        "lng": -0.10500948876142503
+      }
+    },
+    {
+      "name": "Farringdon",
+      "altNames": {},
+      "location": {
+        "lat": 51.52009104662752,
+        "lng": -0.10500948876142503
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.52015196429112,
+        "lng": -0.09849918074905874
+      }
+    },
+    {
+      "name": "Barbican",
+      "altNames": {},
+      "location": {
+        "lat": 51.52015196429112,
+        "lng": -0.09849918074905874
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.51849578846188,
+        "lng": -0.08852756582200527
+      }
+    },
+    {
+      "name": "Moorgate",
+      "altNames": {},
+      "location": {
+        "lat": 51.51849578846188,
+        "lng": -0.08852756582200527
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.51767617977159,
+        "lng": -0.08233308792114259
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 51.51767617977159,
+        "lng": -0.08233308792114259
+      }
+    }
+  ],
   "transfers": [],
   "lines": {
     "E": {
@@ -73,7 +226,80 @@
     },
     "M12": null
   },
-  "spans": [],
+  "spans": [
+    {
+      "source": 1,
+      "target": 3,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "routes": [
+        2,
+        4
+      ]
+    },
+    {
+      "source": 16,
+      "target": 18,
+      "routes": [
+        2,
+        4
+      ]
+    }
+  ],
   "routes": [
     {
       "line": "M1",
@@ -162,6 +388,10 @@
     {
       "line": "E",
       "branch": "1"
+    },
+    {
+      "line": "L",
+      "branch": "iv"
     }
   ]
 }
