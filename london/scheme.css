@@ -1,0 +1,16 @@
+/* reverse engineered from the original map */
+.M1 { stroke: var(--brown); } /* Bakerloo */
+.M2 { stroke: var(--red); } /* Central */
+.M3 { stroke: var(--yellow); } /* Circle */
+.M4 { stroke: var(--green); } /* District */
+.M5 { stroke: var(--pink); } /* Hammersmith & City */
+.M6 { stroke: var(--grey); } /* Jubilee */
+.M7 { stroke: var(--purple); } /* Metropolitan */
+.M8 { stroke: var(--black); } /* Northern */
+.M9 { stroke: var(--blue); } /* Piccadilly */
+.M10 { stroke: var(--azure); } /* Victoria */
+.M11 { stroke: var(--teal); } /* Waterloo & City */
+
+.E { stroke: var(--orange); } /* Lahtinskaja */
+.L { stroke: var(--lime); } /* Kinovejevskaja */
+#paths-inner * { stroke: #FFFFFF; }
