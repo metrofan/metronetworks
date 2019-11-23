@@ -4834,6 +4834,14 @@
         "lat": 55.66467181832852,
         "lng": 38.033408001065254
       }
+    },
+    {
+      "name": "Mitinskij park",
+      "altNames": {},
+      "location": {
+        "lat": 55.832149526738775,
+        "lng": 37.38235901109875
+      }
     }
   ],
   "transfers": [
@@ -5652,6 +5660,11 @@
       "type": "osi",
       "source": 206,
       "target": 428
+    },
+    {
+      "type": "osi",
+      "source": 604,
+      "target": 73
     }
   ],
   "lines": {
@@ -9016,7 +9029,7 @@
     },
     {
       "source": 468,
-      "target": 469,
+      "target": 604,
       "routes": [
         20,
         21,
@@ -9977,6 +9990,15 @@
       "target": 287,
       "routes": [
         22
+      ]
+    },
+    {
+      "source": 604,
+      "target": 469,
+      "routes": [
+        20,
+        21,
+        17
       ]
     }
   ],
