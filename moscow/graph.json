@@ -4068,14 +4068,6 @@
       }
     },
     {
-      "name": "Krasnaja Pachra",
-      "altNames": {},
-      "location": {
-        "lat": 55.42986573936272,
-        "lng": 37.27626800537109
-      }
-    },
-    {
       "name": "Prokšino",
       "altNames": {},
       "location": {
@@ -4967,7 +4959,7 @@
     },
     {
       "source": 35,
-      "target": 549
+      "target": 548
     },
     {
       "source": 261,
@@ -5149,7 +5141,7 @@
       "target": 271
     },
     {
-      "source": 549,
+      "source": 548,
       "target": 363
     },
     {
@@ -5157,8 +5149,8 @@
       "target": 233
     },
     {
-      "source": 541,
-      "target": 517
+      "source": 540,
+      "target": 516
     },
     {
       "type": "osi",
@@ -5227,7 +5219,7 @@
     {
       "type": "osi",
       "source": 216,
-      "target": 558
+      "target": 557
     },
     {
       "source": 250,
@@ -5336,7 +5328,7 @@
     },
     {
       "type": "osi",
-      "source": 557,
+      "source": 556,
       "target": 353
     },
     {
@@ -5381,7 +5373,7 @@
     },
     {
       "source": 280,
-      "target": 511
+      "target": 510
     },
     {
       "type": "osi",
@@ -5509,87 +5501,87 @@
     },
     {
       "type": "osi",
-      "source": 521,
+      "source": 520,
       "target": 296
     },
     {
       "source": 241,
-      "target": 526
+      "target": 525
     },
     {
       "source": 304,
-      "target": 529
+      "target": 528
     },
     {
       "type": "osi",
       "source": 384,
-      "target": 556
+      "target": 555
     },
     {
       "type": "osi",
-      "source": 530,
+      "source": 529,
       "target": 320
     },
     {
       "source": 136,
+      "target": 531
+    },
+    {
+      "source": 533,
       "target": 532
     },
     {
-      "source": 534,
-      "target": 533
-    },
-    {
       "source": 26,
-      "target": 535
+      "target": 534
     },
     {
-      "source": 536,
+      "source": 535,
       "target": 203
     },
     {
-      "source": 536,
+      "source": 535,
       "target": 181
     },
     {
       "source": 98,
-      "target": 537
+      "target": 536
     },
     {
       "source": 3,
+      "target": 537
+    },
+    {
+      "source": 539,
       "target": 538
     },
     {
-      "source": 540,
-      "target": 539
-    },
-    {
-      "source": 543,
+      "source": 542,
       "target": 107
     },
     {
       "type": "osi",
       "source": 380,
-      "target": 545
+      "target": 544
     },
     {
-      "source": 545,
+      "source": 544,
       "target": 170
     },
     {
-      "source": 546,
-      "target": 547
+      "source": 545,
+      "target": 546
     },
     {
       "type": "osi",
-      "source": 547,
+      "source": 546,
       "target": 328
     },
     {
-      "source": 550,
+      "source": 549,
       "target": 285
     },
     {
-      "source": 550,
+      "source": 549,
       "target": 154
     },
     {
@@ -5598,30 +5590,30 @@
       "target": 341
     },
     {
-      "source": 551,
+      "source": 550,
       "target": 55
     },
     {
-      "source": 552,
+      "source": 551,
       "target": 255
     },
     {
       "type": "osi",
-      "source": 554,
+      "source": 553,
       "target": 349
     },
     {
       "type": "osi",
-      "source": 555,
+      "source": 554,
       "target": 350
     },
     {
-      "source": 555,
+      "source": 554,
       "target": 59
     },
     {
       "type": "osi",
-      "source": 567,
+      "source": 566,
       "target": 407
     },
     {
@@ -5637,15 +5629,15 @@
       "target": 273
     },
     {
-      "source": 526,
-      "target": 576
+      "source": 525,
+      "target": 575
     },
     {
       "source": 241,
-      "target": 576
+      "target": 575
     },
     {
-      "source": 578,
+      "source": 577,
       "target": 140
     },
     {
@@ -5679,7 +5671,7 @@
     },
     {
       "type": "osi",
-      "source": 604,
+      "source": 603,
       "target": 73
     }
   ],
@@ -6028,14 +6020,14 @@
       ]
     },
     {
-      "source": 570,
-      "target": 571,
+      "source": 569,
+      "target": 570,
       "routes": [
         27
       ]
     },
     {
-      "source": 571,
+      "source": 570,
       "target": 45,
       "routes": [
         27
@@ -6099,7 +6091,7 @@
     },
     {
       "source": 53,
-      "target": 606,
+      "target": 605,
       "routes": [
         1
       ]
@@ -6259,7 +6251,7 @@
       ]
     },
     {
-      "source": 517,
+      "source": 516,
       "target": 77,
       "routes": [
         2
@@ -6308,7 +6300,7 @@
       ]
     },
     {
-      "source": 540,
+      "source": 539,
       "target": 85,
       "routes": [
         4
@@ -6364,7 +6356,7 @@
       ]
     },
     {
-      "source": 534,
+      "source": 533,
       "target": 93,
       "routes": [
         4
@@ -6686,7 +6678,7 @@
       ]
     },
     {
-      "source": 529,
+      "source": 528,
       "target": 139,
       "routes": [
         6
@@ -7498,7 +7490,7 @@
       ]
     },
     {
-      "source": 523,
+      "source": 522,
       "target": 255,
       "routes": [
         10
@@ -7610,8 +7602,8 @@
       ]
     },
     {
-      "source": 545,
-      "target": 546,
+      "source": 544,
+      "target": 545,
       "routes": [
         13
       ]
@@ -7625,35 +7617,35 @@
     },
     {
       "source": 269,
-      "target": 547,
+      "target": 546,
       "routes": [
         14
       ]
     },
     {
-      "source": 550,
+      "source": 549,
       "target": 273,
       "routes": [
         27
       ]
     },
     {
-      "source": 512,
+      "source": 511,
       "target": 272,
       "routes": [
         6
       ]
     },
     {
-      "source": 529,
+      "source": 528,
       "target": 138,
       "routes": [
         6
       ]
     },
     {
-      "source": 528,
-      "target": 525,
+      "source": 527,
+      "target": 524,
       "routes": [
         14
       ]
@@ -7701,7 +7693,7 @@
       ]
     },
     {
-      "source": 541,
+      "source": 540,
       "target": 282,
       "routes": [
         27
@@ -7715,8 +7707,8 @@
       ]
     },
     {
-      "source": 548,
-      "target": 549,
+      "source": 547,
+      "target": 548,
       "routes": [
         14
       ]
@@ -8779,7 +8771,7 @@
       ]
     },
     {
-      "source": 573,
+      "source": 572,
       "target": 436,
       "routes": [
         21,
@@ -9045,7 +9037,7 @@
     },
     {
       "source": 468,
-      "target": 604,
+      "target": 603,
       "routes": [
         20,
         21,
@@ -9330,16 +9322,16 @@
     },
     {
       "source": 507,
-      "target": 509,
+      "target": 508,
       "routes": [
         0
       ]
     },
     {
-      "source": 516,
-      "target": 508,
+      "source": 508,
+      "target": 509,
       "routes": [
-        13
+        0
       ]
     },
     {
@@ -9350,28 +9342,28 @@
       ]
     },
     {
-      "source": 510,
-      "target": 511,
-      "routes": [
-        0
-      ]
-    },
-    {
       "source": 134,
-      "target": 512,
+      "target": 511,
       "routes": [
         6
       ]
     },
     {
       "source": 23,
-      "target": 513,
+      "target": 512,
       "routes": [
         0
       ]
     },
     {
       "source": 481,
+      "target": 513,
+      "routes": [
+        13
+      ]
+    },
+    {
+      "source": 513,
       "target": 514,
       "routes": [
         13
@@ -9385,14 +9377,7 @@
       ]
     },
     {
-      "source": 515,
-      "target": 516,
-      "routes": [
-        13
-      ]
-    },
-    {
-      "source": 517,
+      "source": 516,
       "target": 39,
       "routes": [
         2
@@ -9400,13 +9385,20 @@
     },
     {
       "source": 501,
-      "target": 518,
+      "target": 517,
       "routes": [
         24
       ]
     },
     {
       "source": 122,
+      "target": 518,
+      "routes": [
+        5
+      ]
+    },
+    {
+      "source": 518,
       "target": 519,
       "routes": [
         5
@@ -9420,28 +9412,21 @@
       ]
     },
     {
-      "source": 520,
-      "target": 521,
-      "routes": [
-        5
-      ]
-    },
-    {
       "source": 213,
-      "target": 522,
+      "target": 521,
       "routes": [
         9
       ]
     },
     {
-      "source": 523,
+      "source": 522,
       "target": 254,
       "routes": [
         10
       ]
     },
     {
-      "source": 524,
+      "source": 523,
       "target": 71,
       "routes": [
         14
@@ -9449,6 +9434,13 @@
     },
     {
       "source": 274,
+      "target": 525,
+      "routes": [
+        14
+      ]
+    },
+    {
+      "source": 525,
       "target": 526,
       "routes": [
         14
@@ -9456,28 +9448,21 @@
     },
     {
       "source": 526,
-      "target": 527,
-      "routes": [
-        14
-      ]
-    },
-    {
-      "source": 527,
-      "target": 524,
+      "target": 523,
       "routes": [
         14
       ]
     },
     {
       "source": 71,
-      "target": 528,
+      "target": 527,
       "routes": [
         14
       ]
     },
     {
       "source": 284,
-      "target": 530,
+      "target": 529,
       "routes": [
         27
       ]
@@ -9490,6 +9475,13 @@
       ]
     },
     {
+      "source": 530,
+      "target": 531,
+      "routes": [
+        27
+      ]
+    },
+    {
       "source": 531,
       "target": 532,
       "routes": [
@@ -9497,21 +9489,21 @@
       ]
     },
     {
-      "source": 532,
-      "target": 533,
-      "routes": [
-        27
-      ]
-    },
-    {
-      "source": 534,
+      "source": 533,
       "target": 92,
       "routes": [
         4
       ]
     },
     {
-      "source": 533,
+      "source": 532,
+      "target": 534,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 534,
       "target": 535,
       "routes": [
         27
@@ -9532,6 +9524,13 @@
       ]
     },
     {
+      "source": 539,
+      "target": 84,
+      "routes": [
+        4
+      ]
+    },
+    {
       "source": 537,
       "target": 538,
       "routes": [
@@ -9539,28 +9538,21 @@
       ]
     },
     {
-      "source": 540,
-      "target": 84,
-      "routes": [
-        4
-      ]
-    },
-    {
       "source": 538,
-      "target": 539,
-      "routes": [
-        27
-      ]
-    },
-    {
-      "source": 539,
-      "target": 541,
+      "target": 540,
       "routes": [
         27
       ]
     },
     {
       "source": 275,
+      "target": 541,
+      "routes": [
+        13
+      ]
+    },
+    {
+      "source": 541,
       "target": 542,
       "routes": [
         13
@@ -9581,14 +9573,7 @@
       ]
     },
     {
-      "source": 544,
-      "target": 545,
-      "routes": [
-        13
-      ]
-    },
-    {
-      "source": 546,
+      "source": 545,
       "target": 268,
       "routes": [
         13
@@ -9603,27 +9588,34 @@
     },
     {
       "source": 271,
-      "target": 548,
+      "target": 547,
       "routes": [
         14
       ]
     },
     {
       "source": 285,
-      "target": 549,
+      "target": 548,
       "routes": [
         14
       ]
     },
     {
-      "source": 531,
-      "target": 550,
+      "source": 530,
+      "target": 549,
       "routes": [
         27
       ]
     },
     {
-      "source": 547,
+      "source": 546,
+      "target": 550,
+      "routes": [
+        14
+      ]
+    },
+    {
+      "source": 550,
       "target": 551,
       "routes": [
         14
@@ -9651,14 +9643,14 @@
       ]
     },
     {
-      "source": 554,
+      "source": 567,
       "target": 555,
       "routes": [
         14
       ]
     },
     {
-      "source": 568,
+      "source": 555,
       "target": 556,
       "routes": [
         14
@@ -9693,21 +9685,21 @@
       ]
     },
     {
-      "source": 560,
+      "source": 524,
       "target": 561,
       "routes": [
         14
       ]
     },
     {
-      "source": 525,
+      "source": 50,
       "target": 562,
       "routes": [
-        14
+        3
       ]
     },
     {
-      "source": 50,
+      "source": 562,
       "target": 563,
       "routes": [
         3
@@ -9735,29 +9727,22 @@
       ]
     },
     {
-      "source": 566,
-      "target": 567,
-      "routes": [
-        3
-      ]
-    },
-    {
-      "source": 568,
-      "target": 555,
+      "source": 567,
+      "target": 554,
       "routes": [
         14
       ]
     },
     {
-      "source": 530,
-      "target": 569,
+      "source": 529,
+      "target": 568,
       "routes": [
         27
       ]
     },
     {
-      "source": 569,
-      "target": 570,
+      "source": 568,
+      "target": 569,
       "routes": [
         27
       ]
@@ -9778,13 +9763,13 @@
     },
     {
       "source": 368,
-      "target": 572,
+      "target": 571,
       "routes": [
         18
       ]
     },
     {
-      "source": 573,
+      "source": 572,
       "target": 435,
       "routes": [
         21,
@@ -9793,6 +9778,13 @@
     },
     {
       "source": 286,
+      "target": 573,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 573,
       "target": 574,
       "routes": [
         27
@@ -9841,84 +9833,84 @@
       ]
     },
     {
-      "source": 580,
+      "source": 521,
       "target": 581,
-      "routes": [
-        27
-      ]
-    },
-    {
-      "source": 522,
-      "target": 582,
       "routes": [
         9
       ]
     },
     {
       "source": 45,
-      "target": 583,
+      "target": 582,
       "routes": [
         27
       ]
     },
     {
-      "source": 583,
-      "target": 585,
-      "routes": [
-        27
-      ]
-    },
-    {
-      "source": 586,
+      "source": 582,
       "target": 584,
+      "routes": [
+        27
+      ]
+    },
+    {
+      "source": 585,
+      "target": 583,
       "routes": [
         21
       ]
     },
     {
       "source": 342,
-      "target": 586,
+      "target": 585,
       "routes": [
         21
       ]
     },
     {
-      "source": 590,
-      "target": 589,
+      "source": 589,
+      "target": 588,
       "routes": [
         0
       ]
     },
     {
-      "source": 585,
-      "target": 588,
+      "source": 584,
+      "target": 587,
       "routes": [
         27
       ]
     },
     {
-      "source": 589,
-      "target": 587,
+      "source": 588,
+      "target": 586,
       "routes": [
         0
       ]
     },
     {
-      "source": 590,
+      "source": 589,
       "target": 478,
       "routes": [
         0
       ]
     },
     {
-      "source": 511,
-      "target": 591,
+      "source": 510,
+      "target": 590,
       "routes": [
         0
       ]
     },
     {
       "source": 460,
+      "target": 591,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 591,
       "target": 592,
       "routes": [
         23
@@ -9926,6 +9918,13 @@
     },
     {
       "source": 592,
+      "target": 594,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 594,
       "target": 593,
       "routes": [
         23
@@ -9940,13 +9939,6 @@
     },
     {
       "source": 595,
-      "target": 594,
-      "routes": [
-        23
-      ]
-    },
-    {
-      "source": 594,
       "target": 596,
       "routes": [
         23
@@ -9974,14 +9966,14 @@
       ]
     },
     {
-      "source": 599,
+      "source": 426,
       "target": 600,
       "routes": [
-        23
+        24
       ]
     },
     {
-      "source": 426,
+      "source": 600,
       "target": 601,
       "routes": [
         24
@@ -9995,13 +9987,6 @@
       ]
     },
     {
-      "source": 602,
-      "target": 603,
-      "routes": [
-        24
-      ]
-    },
-    {
       "source": 416,
       "target": 287,
       "routes": [
@@ -10009,8 +9994,8 @@
       ]
     },
     {
-      "source": 604,
-      "target": 605,
+      "source": 603,
+      "target": 604,
       "routes": [
         20,
         21,
@@ -10018,7 +10003,7 @@
       ]
     },
     {
-      "source": 605,
+      "source": 604,
       "target": 469,
       "routes": [
         20,
@@ -10027,7 +10012,7 @@
       ]
     },
     {
-      "source": 606,
+      "source": 605,
       "target": 54,
       "routes": [
         1
