@@ -4518,6 +4518,15 @@
         "lat": 59.90486503684274,
         "lng": 30.380973815917972
       }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.93777332844343,
+        "lng": 30.447750091552738
+      },
+      "type": "dummy"
     }
   ],
   "transfers": [
@@ -8437,7 +8446,7 @@
     },
     {
       "source": 124,
-      "target": 457,
+      "target": 463,
       "routes": [
         23
       ]
@@ -8466,6 +8475,13 @@
     {
       "source": 454,
       "target": 462,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 463,
+      "target": 457,
       "routes": [
         23
       ]
