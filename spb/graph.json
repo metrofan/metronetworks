@@ -3875,8 +3875,8 @@
       "name": "New station",
       "altNames": {},
       "location": {
-        "lat": 59.99031976896548,
-        "lng": 30.336182249448033
+        "lat": 59.99153924213322,
+        "lng": 30.334281921386722
       },
       "type": "dummy"
     },
@@ -4154,8 +4154,8 @@
       "name": "New station",
       "altNames": {},
       "location": {
-        "lat": 59.989203624689196,
-        "lng": 30.340387953183384
+        "lat": 59.989757751894004,
+        "lng": 30.342392921447757
       },
       "type": "dummy"
     },
@@ -4444,8 +4444,8 @@
       "name": "New station",
       "altNames": {},
       "location": {
-        "lat": 59.898322509034614,
-        "lng": 30.37599563598633
+        "lat": 59.90030262056165,
+        "lng": 30.37779808044434
       },
       "type": "dummy"
     },
@@ -4453,10 +4453,71 @@
       "name": "New station",
       "altNames": {},
       "location": {
-        "lat": 59.926807523795354,
-        "lng": 30.434875488281254
+        "lat": 59.92844187357181,
+        "lng": 30.43350219726563
       },
       "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.98997239435359,
+        "lng": 30.338745117187504
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "Rubľoviki",
+      "altNames": {},
+      "location": {
+        "lat": 59.9603815389146,
+        "lng": 30.446119308471683
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.983575451625555,
+        "lng": 30.442085266113285
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 59.97928150809444,
+        "lng": 30.44448852539063
+      },
+      "type": "dummy"
+    },
+    {
+      "name": "Zybuľa",
+      "altNames": {},
+      "location": {
+        "lat": 59.91936591369784,
+        "lng": 30.424318313598636
+      }
+    },
+    {
+      "name": "Stekľanka",
+      "altNames": {
+        "fi": "Lasikaupunki"
+      },
+      "location": {
+        "lat": 59.91256807170005,
+        "lng": 30.400199890136722
+      }
+    },
+    {
+      "name": "Gluchoje ozero",
+      "altNames": {},
+      "location": {
+        "lat": 59.90486503684274,
+        "lng": 30.380973815917972
+      }
     }
   ],
   "transfers": [
@@ -4922,6 +4983,35 @@
     {
       "type": "osi",
       "source": 443,
+      "target": 24
+    },
+    {
+      "type": "osi",
+      "source": 251,
+      "target": 460
+    },
+    {
+      "type": "osi",
+      "source": 73,
+      "target": 461
+    },
+    {
+      "type": "osi",
+      "source": 461,
+      "target": 74
+    },
+    {
+      "source": 443,
+      "target": 462
+    },
+    {
+      "type": "osi",
+      "source": 462,
+      "target": 438
+    },
+    {
+      "type": "osi",
+      "source": 462,
       "target": 24
     }
   ],
@@ -6924,7 +7014,8 @@
       "target": 109,
       "routes": [
         19,
-        16
+        16,
+        22
       ]
     },
     {
@@ -6975,28 +7066,32 @@
       "routes": [
         21,
         20,
-        18
+        18,
+        22
       ]
     },
     {
       "source": 383,
       "target": 40,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 382,
       "target": 137,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 379,
       "target": 118,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
@@ -7300,14 +7395,16 @@
       "source": 43,
       "target": 122,
       "routes": [
-        19
+        19,
+        22
       ]
     },
     {
       "source": 122,
       "target": 330,
       "routes": [
-        19
+        19,
+        22
       ]
     },
     {
@@ -7553,7 +7650,8 @@
       "source": 43,
       "target": 244,
       "routes": [
-        19
+        19,
+        22
       ]
     },
     {
@@ -7588,7 +7686,8 @@
       "source": 387,
       "target": 164,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
@@ -7704,56 +7803,64 @@
       "source": 381,
       "target": 137,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 379,
       "target": 378,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 380,
       "target": 378,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 381,
       "target": 380,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 382,
       "target": 40,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 384,
       "target": 164,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 384,
       "target": 383,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
       "source": 149,
       "target": 385,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
@@ -7768,7 +7875,8 @@
       "source": 387,
       "target": 385,
       "routes": [
-        20
+        20,
+        22
       ]
     },
     {
@@ -7784,7 +7892,8 @@
       "target": 389,
       "routes": [
         19,
-        16
+        16,
+        22
       ]
     },
     {
@@ -7793,7 +7902,8 @@
       "routes": [
         21,
         20,
-        18
+        18,
+        22
       ]
     },
     {
@@ -7810,7 +7920,8 @@
       "target": 392,
       "routes": [
         19,
-        16
+        16,
+        22
       ]
     },
     {
@@ -8009,7 +8120,8 @@
       "target": 388,
       "routes": [
         19,
-        16
+        16,
+        22
       ]
     },
     {
@@ -8017,7 +8129,8 @@
       "target": 44,
       "routes": [
         19,
-        16
+        16,
+        22
       ]
     },
     {
@@ -8122,7 +8235,8 @@
       "source": 244,
       "target": 453,
       "routes": [
-        19
+        19,
+        22
       ]
     },
     {
@@ -8259,14 +8373,16 @@
       "source": 442,
       "target": 454,
       "routes": [
-        19
+        19,
+        22
       ]
     },
     {
       "source": 453,
       "target": 442,
       "routes": [
-        19
+        19,
+        22
       ]
     },
     {
@@ -8281,6 +8397,76 @@
       "target": 124,
       "routes": [
         15,
+        22
+      ]
+    },
+    {
+      "source": 456,
+      "target": 391,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 456,
+      "target": 422,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 109,
+      "target": 458,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 458,
+      "target": 459,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 459,
+      "target": 457,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 124,
+      "target": 457,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 460,
+      "target": 124,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 460,
+      "target": 461,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 461,
+      "target": 462,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 454,
+      "target": 462,
+      "routes": [
         22
       ]
     }
