@@ -4286,42 +4286,6 @@
       "type": "dummy"
     },
     {
-      "name": "Karetnaja",
-      "altNames": {
-        "fi": "Vaunuosa"
-      },
-      "location": {
-        "lat": 59.915534819951056,
-        "lng": 30.352980606257923
-      }
-    },
-    {
-      "name": "Gluchoje ozero",
-      "altNames": {},
-      "location": {
-        "lat": 59.90636068227025,
-        "lng": 30.378365032374866
-      }
-    },
-    {
-      "name": "Zavodskaja",
-      "altNames": {},
-      "location": {
-        "lat": 59.89198804138371,
-        "lng": 30.38428911007941
-      }
-    },
-    {
-      "name": "Bucharestskaja",
-      "altNames": {
-        "fi": "Bukarestinkatu"
-      },
-      "location": {
-        "lat": 59.88309519761057,
-        "lng": 30.367265045642856
-      }
-    },
-    {
       "name": "Blagodatnaja",
       "altNames": {
         "fi": "Armokatu"
@@ -4527,6 +4491,34 @@
         "lng": 30.447750091552738
       },
       "type": "dummy"
+    },
+    {
+      "name": "Semency",
+      "altNames": {},
+      "location": {
+        "lat": 59.919150813447,
+        "lng": 30.33213615417481
+      }
+    },
+    {
+      "name": "Borovaja",
+      "altNames": {
+        "fi": "Mäntymetsänkatu"
+      },
+      "location": {
+        "lat": 59.90516630642162,
+        "lng": 30.335998535156254
+      }
+    },
+    {
+      "name": "Volkovo",
+      "altNames": {
+        "fi": "Sutela"
+      },
+      "location": {
+        "lat": 59.89685887246781,
+        "lng": 30.355224609375004
+      }
     }
   ],
   "transfers": [
@@ -4947,19 +4939,7 @@
       "target": 7
     },
     {
-      "source": 2,
-      "target": 437
-    },
-    {
       "source": 437,
-      "target": 3
-    },
-    {
-      "source": 440,
-      "target": 191
-    },
-    {
-      "source": 441,
       "target": 244
     },
     {
@@ -4971,57 +4951,67 @@
       "target": 69
     },
     {
-      "source": 438,
-      "target": 24
-    },
-    {
       "type": "osi",
-      "source": 442,
+      "source": 438,
       "target": 23
     },
     {
       "type": "osi",
       "source": 22,
-      "target": 442
-    },
-    {
-      "type": "osi",
-      "source": 443,
       "target": 438
     },
     {
       "type": "osi",
-      "source": 443,
+      "source": 439,
       "target": 24
     },
     {
       "type": "osi",
       "source": 251,
-      "target": 460
+      "target": 456
     },
     {
       "type": "osi",
       "source": 73,
-      "target": 461
+      "target": 457
     },
     {
       "type": "osi",
-      "source": 461,
+      "source": 457,
       "target": 74
     },
     {
-      "source": 443,
-      "target": 462
+      "source": 439,
+      "target": 458
     },
     {
       "type": "osi",
-      "source": 462,
-      "target": 438
-    },
-    {
-      "type": "osi",
-      "source": 462,
+      "source": 458,
       "target": 24
+    },
+    {
+      "source": 460,
+      "target": 6
+    },
+    {
+      "source": 460,
+      "target": 7
+    },
+    {
+      "source": 461,
+      "target": 15
+    },
+    {
+      "source": 461,
+      "target": 14
+    },
+    {
+      "source": 462,
+      "target": 22
+    },
+    {
+      "source": 462,
+      "target": 23
     }
   ],
   "lines": {
@@ -6969,7 +6959,7 @@
     },
     {
       "source": 95,
-      "target": 455,
+      "target": 451,
       "routes": [
         15,
         22
@@ -6992,14 +6982,14 @@
     },
     {
       "source": 314,
-      "target": 447,
+      "target": 443,
       "routes": [
         15
       ]
     },
     {
       "source": 320,
-      "target": 446,
+      "target": 442,
       "routes": [
         15
       ]
@@ -7515,7 +7505,7 @@
       ]
     },
     {
-      "source": 445,
+      "source": 441,
       "target": 95,
       "routes": [
         21,
@@ -8242,7 +8232,7 @@
     },
     {
       "source": 244,
-      "target": 453,
+      "target": 449,
       "routes": [
         19,
         23
@@ -8250,41 +8240,13 @@
     },
     {
       "source": 69,
-      "target": 437,
+      "target": 460,
       "routes": [
         7
       ]
     },
     {
       "source": 437,
-      "target": 438,
-      "routes": [
-        7
-      ]
-    },
-    {
-      "source": 438,
-      "target": 439,
-      "routes": [
-        7
-      ]
-    },
-    {
-      "source": 439,
-      "target": 440,
-      "routes": [
-        7
-      ]
-    },
-    {
-      "source": 440,
-      "target": 441,
-      "routes": [
-        7
-      ]
-    },
-    {
-      "source": 441,
       "target": 237,
       "routes": [
         7
@@ -8292,15 +8254,15 @@
     },
     {
       "source": 286,
-      "target": 444,
+      "target": 440,
       "routes": [
         21,
         20
       ]
     },
     {
-      "source": 443,
-      "target": 445,
+      "source": 439,
+      "target": 441,
       "routes": [
         21,
         20,
@@ -8308,22 +8270,22 @@
       ]
     },
     {
-      "source": 444,
-      "target": 443,
+      "source": 440,
+      "target": 439,
       "routes": [
         21,
         20
       ]
     },
     {
-      "source": 446,
+      "source": 442,
       "target": 406,
       "routes": [
         15
       ]
     },
     {
-      "source": 447,
+      "source": 443,
       "target": 320,
       "routes": [
         15
@@ -8338,34 +8300,34 @@
     },
     {
       "source": 275,
-      "target": 448,
+      "target": 444,
       "routes": [
         18
       ]
     },
     {
-      "source": 448,
-      "target": 449,
+      "source": 444,
+      "target": 445,
       "routes": [
         18
       ]
     },
     {
-      "source": 449,
-      "target": 450,
+      "source": 445,
+      "target": 446,
       "routes": [
         18
       ]
     },
     {
-      "source": 450,
-      "target": 451,
+      "source": 446,
+      "target": 447,
       "routes": [
         18
       ]
     },
     {
-      "source": 451,
+      "source": 447,
       "target": 230,
       "routes": [
         18
@@ -8373,36 +8335,36 @@
     },
     {
       "source": 138,
-      "target": 452,
+      "target": 448,
       "routes": [
         2
       ]
     },
     {
-      "source": 442,
-      "target": 454,
+      "source": 438,
+      "target": 450,
       "routes": [
         19,
         23
       ]
     },
     {
-      "source": 453,
-      "target": 442,
+      "source": 449,
+      "target": 438,
       "routes": [
         19,
         23
       ]
     },
     {
-      "source": 454,
-      "target": 443,
+      "source": 450,
+      "target": 439,
       "routes": [
         19
       ]
     },
     {
-      "source": 455,
+      "source": 451,
       "target": 124,
       "routes": [
         15,
@@ -8410,14 +8372,14 @@
       ]
     },
     {
-      "source": 456,
+      "source": 452,
       "target": 391,
       "routes": [
         23
       ]
     },
     {
-      "source": 456,
+      "source": 452,
       "target": 422,
       "routes": [
         23
@@ -8425,35 +8387,63 @@
     },
     {
       "source": 109,
-      "target": 458,
+      "target": 454,
       "routes": [
         23
       ]
     },
     {
-      "source": 458,
-      "target": 459,
+      "source": 454,
+      "target": 455,
       "routes": [
         23
       ]
     },
     {
-      "source": 459,
-      "target": 457,
+      "source": 455,
+      "target": 453,
       "routes": [
         23
       ]
     },
     {
       "source": 124,
-      "target": 463,
+      "target": 459,
       "routes": [
         23
       ]
     },
     {
-      "source": 460,
+      "source": 456,
       "target": 124,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 456,
+      "target": 457,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 457,
+      "target": 458,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 450,
+      "target": 458,
+      "routes": [
+        23
+      ]
+    },
+    {
+      "source": 459,
+      "target": 453,
       "routes": [
         23
       ]
@@ -8462,28 +8452,21 @@
       "source": 460,
       "target": 461,
       "routes": [
-        23
+        7
       ]
     },
     {
       "source": 461,
       "target": 462,
       "routes": [
-        23
+        7
       ]
     },
     {
-      "source": 454,
-      "target": 462,
+      "source": 462,
+      "target": 437,
       "routes": [
-        23
-      ]
-    },
-    {
-      "source": 463,
-      "target": 457,
-      "routes": [
-        23
+        7
       ]
     }
   ],
