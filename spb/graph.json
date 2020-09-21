@@ -2276,9 +2276,9 @@
       }
     },
     {
-      "name": "Bassejnaja",
+      "name": "Jablonevyj sad",
       "altNames": {
-        "fi": "Lampikatu"
+        "fi": "Omenatarha"
       },
       "location": {
         "lat": 59.8657628902984,
@@ -2346,13 +2346,13 @@
       }
     },
     {
-      "name": "Blagodatnaja",
+      "name": "Jablonevyj sad",
       "altNames": {
-        "fi": "Armokatu"
+        "fi": "Omenatarha"
       },
       "location": {
-        "lat": 59.878005109149974,
-        "lng": 30.350982312194404
+        "lat": 59.866473857406156,
+        "lng": 30.357413291931156
       }
     },
     {
@@ -4483,9 +4483,9 @@
       }
     },
     {
-      "name": "Bassejnaja",
+      "name": "Jablonevyj sad",
       "altNames": {
-        "fi": "Lampikatu"
+        "fi": "Omenatarha"
       },
       "location": {
         "lat": 59.86589215817573,
@@ -4921,10 +4921,6 @@
       "target": 7
     },
     {
-      "source": 428,
-      "target": 235
-    },
-    {
       "source": 8,
       "target": 64
     },
@@ -5016,6 +5012,16 @@
     {
       "source": 465,
       "target": 211
+    },
+    {
+      "type": "osi",
+      "source": 235,
+      "target": 460
+    },
+    {
+      "type": "osi",
+      "source": 235,
+      "target": 228
     }
   ],
   "lines": {
