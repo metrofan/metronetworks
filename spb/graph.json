@@ -2629,8 +2629,8 @@
         "fi": "Valkeasaari"
       },
       "location": {
-        "lat": 60.1436590120592,
-        "lng": 30.01826229759197
+        "lat": 60.14470945129442,
+        "lng": 30.01321077346802
       }
     },
     {
@@ -3561,8 +3561,8 @@
       "name": "New station",
       "altNames": {},
       "location": {
-        "lat": 60.14098887483463,
-        "lng": 30.00591842341237
+        "lat": 60.13947491949406,
+        "lng": 30.003747940063477
       },
       "type": "dummy"
     },
@@ -4542,6 +4542,25 @@
         "lat": 59.909254694737534,
         "lng": 30.254373550415043
       }
+    },
+    {
+      "name": "Beloostrov",
+      "altNames": {
+        "fi": "Valkeasaari"
+      },
+      "location": {
+        "lat": 60.143513060328885,
+        "lng": 30.018178224563602
+      }
+    },
+    {
+      "name": "New station",
+      "altNames": {},
+      "location": {
+        "lat": 60.14372670476474,
+        "lng": 30.012416839599613
+      },
+      "type": "dummy"
     }
   ],
   "transfers": [
@@ -5023,6 +5042,10 @@
       "type": "osi",
       "source": 235,
       "target": 228
+    },
+    {
+      "source": 263,
+      "target": 466
     }
   ],
   "lines": {
@@ -7649,13 +7672,6 @@
       ]
     },
     {
-      "source": 263,
-      "target": 357,
-      "routes": [
-        20
-      ]
-    },
-    {
       "source": 356,
       "target": 355,
       "routes": [
@@ -8499,6 +8515,20 @@
       "target": 464,
       "routes": [
         6
+      ]
+    },
+    {
+      "source": 357,
+      "target": 467,
+      "routes": [
+        20
+      ]
+    },
+    {
+      "source": 467,
+      "target": 466,
+      "routes": [
+        20
       ]
     }
   ],
