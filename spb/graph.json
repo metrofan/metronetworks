@@ -4278,13 +4278,14 @@
       "type": "dummy"
     },
     {
-      "name": "New station",
-      "altNames": {},
-      "location": {
-        "lat": 60.117266972315164,
-        "lng": 30.189657211303714
+      "name": "Institut onkologii",
+      "altNames": {
+        "fi": "Onkologian instituutti"
       },
-      "type": "dummy"
+      "location": {
+        "lat": 60.11734180769091,
+        "lng": 30.18948554992676
+      }
     },
     {
       "name": "New station",
