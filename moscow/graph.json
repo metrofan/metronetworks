@@ -4420,27 +4420,27 @@
       }
     },
     {
-      "name": "Kurjanovo",
+      "name": "Moskvorečje",
       "altNames": {},
       "location": {
-        "lat": 55.65546138501023,
-        "lng": 37.69808292388916
+        "lat": 55.64512172405517,
+        "lng": 37.6742434501648
       }
     },
     {
-      "name": "Saburovo",
+      "name": "Jerevanskaja",
       "altNames": {},
       "location": {
-        "lat": 55.63962388406009,
-        "lng": 37.68739700317383
+        "lat": 55.63187231429297,
+        "lng": 37.6682996749878
       }
     },
     {
-      "name": "Caricyno",
+      "name": "Ogoňok",
       "altNames": {},
       "location": {
-        "lat": 55.61973318244785,
-        "lng": 37.67138957977295
+        "lat": 55.607420602706334,
+        "lng": 37.65761375427247
       }
     },
     {
@@ -4540,11 +4540,11 @@
       }
     },
     {
-      "name": "Vostočnoje Biřuľovo",
+      "name": "Biřuľovskij dendropark",
       "altNames": {},
       "location": {
-        "lat": 55.59537695423585,
-        "lng": 37.662699222564704
+        "lat": 55.596195336305584,
+        "lng": 37.67201185226441
       }
     },
     {
@@ -4849,6 +4849,22 @@
       "location": {
         "lat": 55.72263890870879,
         "lng": 37.64861226081849
+      }
+    },
+    {
+      "name": "Zagorje",
+      "altNames": {},
+      "location": {
+        "lat": 55.58676168972554,
+        "lng": 37.675895690917976
+      }
+    },
+    {
+      "name": "Kurjanovo",
+      "altNames": {},
+      "location": {
+        "lat": 55.64952912650933,
+        "lng": 37.70103335380555
       }
     }
   ],
@@ -5596,20 +5612,6 @@
     {
       "source": 551,
       "target": 255
-    },
-    {
-      "type": "osi",
-      "source": 553,
-      "target": 349
-    },
-    {
-      "type": "osi",
-      "source": 554,
-      "target": 350
-    },
-    {
-      "source": 554,
-      "target": 59
     },
     {
       "type": "osi",
@@ -8165,7 +8167,7 @@
     },
     {
       "source": 348,
-      "target": 349,
+      "target": 607,
       "routes": [
         17
       ]
@@ -9644,7 +9646,7 @@
     },
     {
       "source": 567,
-      "target": 555,
+      "target": 606,
       "routes": [
         14
       ]
@@ -10016,6 +10018,20 @@
       "target": 54,
       "routes": [
         1
+      ]
+    },
+    {
+      "source": 606,
+      "target": 555,
+      "routes": [
+        14
+      ]
+    },
+    {
+      "source": 607,
+      "target": 349,
+      "routes": [
+        17
       ]
     }
   ],
