@@ -436,7 +436,7 @@
       }
     },
     {
-      "name": "Kožuchovo",
+      "name": "Simonovskaja sloboda",
       "altNames": {},
       "location": {
         "lat": 55.707372630994044,
@@ -1572,7 +1572,7 @@
       }
     },
     {
-      "name": "Južnyj port",
+      "name": "Kožuchovo",
       "altNames": {},
       "location": {
         "lat": 55.706284544991206,
@@ -2148,7 +2148,7 @@
       }
     },
     {
-      "name": "Kožuchovo",
+      "name": "Simonovskaja sloboda",
       "altNames": {},
       "location": {
         "lat": 55.70650216461572,
@@ -2620,7 +2620,7 @@
       }
     },
     {
-      "name": "Kožuchovo",
+      "name": "Simonovskaja sloboda",
       "altNames": {},
       "location": {
         "lat": 55.7063691749892,
@@ -4866,6 +4866,14 @@
         "lat": 55.64952912650933,
         "lng": 37.70103335380555
       }
+    },
+    {
+      "name": "Južnyj port",
+      "altNames": {},
+      "location": {
+        "lat": 55.700033508434565,
+        "lng": 37.70722389221192
+      }
     }
   ],
   "transfers": [
@@ -7073,7 +7081,7 @@
     },
     {
       "source": 196,
-      "target": 197,
+      "target": 608,
       "routes": [
         9
       ]
@@ -10032,6 +10040,13 @@
       "target": 349,
       "routes": [
         17
+      ]
+    },
+    {
+      "source": 608,
+      "target": 197,
+      "routes": [
+        9
       ]
     }
   ],
