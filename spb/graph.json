@@ -4567,6 +4567,16 @@
         "lat": 59.95342019710775,
         "lng": 30.422172546386722
       }
+    },
+    {
+      "name": "Malinovka",
+      "altNames": {
+        "fi": "Uusikylä"
+      },
+      "location": {
+        "lat": 59.9457911218782,
+        "lng": 30.476288795471195
+      }
     }
   ],
   "transfers": [
@@ -5069,6 +5079,10 @@
       "type": "osi",
       "source": 220,
       "target": 440
+    },
+    {
+      "source": 469,
+      "target": 143
     }
   ],
   "lines": {
@@ -6362,13 +6376,6 @@
       ]
     },
     {
-      "source": 98,
-      "target": 341,
-      "routes": [
-        10
-      ]
-    },
-    {
       "source": 254,
       "target": 23,
       "routes": [
@@ -7581,14 +7588,14 @@
       "source": 341,
       "target": 332,
       "routes": [
-        10
+        9
       ]
     },
     {
       "source": 332,
       "target": 284,
       "routes": [
-        10
+        9
       ]
     },
     {
@@ -8195,13 +8202,6 @@
       ]
     },
     {
-      "source": 301,
-      "target": 227,
-      "routes": [
-        9
-      ]
-    },
-    {
       "source": 262,
       "target": 431,
       "routes": [
@@ -8534,17 +8534,38 @@
       ]
     },
     {
-      "source": 143,
-      "target": 227,
-      "routes": [
-        9
-      ]
-    },
-    {
       "source": 468,
       "target": 31,
       "routes": [
         6
+      ]
+    },
+    {
+      "source": 98,
+      "target": 469,
+      "routes": [
+        10
+      ]
+    },
+    {
+      "source": 469,
+      "target": 227,
+      "routes": [
+        10
+      ]
+    },
+    {
+      "source": 301,
+      "target": 227,
+      "routes": [
+        10
+      ]
+    },
+    {
+      "source": 143,
+      "target": 341,
+      "routes": [
+        9
       ]
     }
   ],
