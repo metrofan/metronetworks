@@ -2817,7 +2817,8 @@
       "location": {
         "lat": 60.002693,
         "lng": 30.070665
-      }
+      },
+      "type": "dummy"
     },
     {
       "name": "Dačnoje",
