@@ -4267,6 +4267,16 @@
         "lat": 59.81365386754177,
         "lng": 30.29449210502208
       }
+    },
+    {
+      "name": "Blagodatnaja",
+      "altNames": {
+        "fi": "Armokatu"
+      },
+      "location": {
+        "lat": 59.87941941788316,
+        "lng": 30.349645614624027
+      }
     }
   ],
   "transfers": [
@@ -7502,7 +7512,7 @@
     },
     {
       "source": 210,
-      "target": 405,
+      "target": 439,
       "routes": [
         19,
         23
@@ -7940,6 +7950,14 @@
       "target": 271,
       "routes": [
         18
+      ]
+    },
+    {
+      "source": 439,
+      "target": 405,
+      "routes": [
+        19,
+        23
       ]
     }
   ],
