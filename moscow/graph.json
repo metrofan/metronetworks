@@ -2295,8 +2295,8 @@
       "name": "Kalančovskaja",
       "altNames": {},
       "location": {
-        "lat": 55.77456963663771,
-        "lng": 37.65370845794678
+        "lat": 55.77613337338347,
+        "lng": 37.6516769360751
       }
     },
     {
@@ -3143,16 +3143,16 @@
       "name": "Pychtino",
       "altNames": {},
       "location": {
-        "lat": 55.62753561104326,
-        "lng": 37.31373310089111
+        "lat": 55.62445635882948,
+        "lng": 37.295703459531076
       }
     },
     {
       "name": "Aeroport Vnukovo",
       "altNames": {},
       "location": {
-        "lat": 55.60609943684567,
-        "lng": 37.28781223297119
+        "lat": 55.60736321927653,
+        "lng": 37.28717034682632
       }
     },
     {
@@ -4858,6 +4858,14 @@
         "lat": 55.56056372380274,
         "lng": 38.238939139992006
       }
+    },
+    {
+      "name": "Kalančovskaja",
+      "altNames": {},
+      "location": {
+        "lat": 55.77453512717833,
+        "lng": 37.65294989570976
+      }
     }
   ],
   "transfers": [
@@ -5174,10 +5182,12 @@
       "target": 153
     },
     {
+      "type": "osi",
       "source": 84,
       "target": 286
     },
     {
+      "type": "osi",
       "source": 286,
       "target": 0
     },
@@ -5626,6 +5636,19 @@
     {
       "source": 604,
       "target": 298
+    },
+    {
+      "source": 607,
+      "target": 0
+    },
+    {
+      "source": 607,
+      "target": 84
+    },
+    {
+      "type": "osi",
+      "source": 607,
+      "target": 286
     }
   ],
   "lines": {
@@ -7664,13 +7687,6 @@
       "target": 285,
       "routes": [
         27
-      ]
-    },
-    {
-      "source": 287,
-      "target": 286,
-      "routes": [
-        23
       ]
     },
     {
@@ -9937,13 +9953,6 @@
       ]
     },
     {
-      "source": 286,
-      "target": 603,
-      "routes": [
-        22
-      ]
-    },
-    {
       "source": 603,
       "target": 375,
       "routes": [
@@ -9983,6 +9992,20 @@
       "target": 606,
       "routes": [
         24
+      ]
+    },
+    {
+      "source": 603,
+      "target": 607,
+      "routes": [
+        22
+      ]
+    },
+    {
+      "source": 607,
+      "target": 287,
+      "routes": [
+        22
       ]
     }
   ],
